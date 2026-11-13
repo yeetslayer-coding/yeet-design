@@ -1,0 +1,2415 @@
+{
+  "schema_version": 1,
+  "observed_on": "2026-11-13",
+  "timezone": "Europe/Istanbul",
+  "source_short_url": "https://pin.it/5oSfd9oku",
+  "board_url": "https://tr.pinterest.com/lilyeet00/skill/",
+  "pin_count": 72,
+  "asset_occurrence_count": 107,
+  "unique_asset_count": 102,
+  "observed_video_count": 0,
+  "records": [
+    {
+      "record_id": "P001-S01",
+      "pin_id": "761600987041741026",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041741026/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/12/5f/c2/125fc20dd0b2ac5cda9ef4e2c9c57e27.jpg",
+      "asset_file": "assets/125fc20dd0b2ac5cda9ef4e2c9c57e27.jpg",
+      "dimensions": [
+        616,
+        2048
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P001-S01.md",
+      "title": "WEAVE — hava temizleyici web sunumu",
+      "role": "web",
+      "role_label": "Web sunumu",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "bffdcbf1cd6018eb06bba094d2a37d3a9d4e0858dcb374a9aacaea850ae37b18"
+    },
+    {
+      "record_id": "P002-S01",
+      "pin_id": "761600987041741024",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041741024/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/24/d1/7b/24d17b9b184294a8225897f1cf44f221.jpg",
+      "asset_file": "assets/24d17b9b184294a8225897f1cf44f221.jpg",
+      "dimensions": [
+        735,
+        909
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P002-S01.md",
+      "title": "Aldi’s coffee — bardak kimlik sunumu",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "c04502c8070d8d554a5309edd2bd18e678adce177c84797fa630ac63def566d5"
+    },
+    {
+      "record_id": "P003-S01",
+      "pin_id": "761600987041739743",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739743/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/27/ac/95/27ac959b03a33ddf4ea5c1ca3557b868.jpg",
+      "asset_file": "assets/27ac959b03a33ddf4ea5c1ca3557b868.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P003-S01.md",
+      "title": "Çelik saat — altı çekim kampanyası",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "WATCH_REFERENCE"
+      ],
+      "sha256": "cdef6e1ebab22cb23c52904a2003cb3e87210055b4e53c4448e2bc33e64223b8"
+    },
+    {
+      "record_id": "P004-S01",
+      "pin_id": "761600987041739322",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739322/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/90/86/fd/9086fd7a4bddc477bb5b744f9bf87fe5.jpg",
+      "asset_file": "assets/9086fd7a4bddc477bb5b744f9bf87fe5.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P004-S01.md",
+      "title": "Binicilik — deri ve arma sistemi",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "b4561e8748eefc63ec84afc4e8ae015ce55f5baca49227598536ef8567210c7d"
+    },
+    {
+      "record_id": "P005-S01",
+      "pin_id": "761600987041739321",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739321/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/92/8c/77/928c77fa66fa1f5c6a748428bfafe586.jpg",
+      "asset_file": "assets/928c77fa66fa1f5c6a748428bfafe586.jpg",
+      "dimensions": [
+        720,
+        900
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P005-S01.md",
+      "title": "N99° — iki mobil ekran sunumu",
+      "role": "interface",
+      "role_label": "Arayüz / ikon",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "d2c8f88dc8bc0c0cbd293af7705e992319e2ed3bb4c4bc03052547458a4e15c9"
+    },
+    {
+      "record_id": "P006-S01",
+      "pin_id": "761600987041739318",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739318/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/80/7f/99/807f9903fad4b4e55f324688c01e237b.jpg",
+      "asset_file": "assets/807f9903fad4b4e55f324688c01e237b.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P006-S01.md",
+      "title": "Free Like a Jazz — elde şapka",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "LOGO_MASTER"
+      ],
+      "sha256": "21083b45d75ce0a5e5a966490cd8f0cd6e0f0139ad3ca89c4dabd39dd2c3505a"
+    },
+    {
+      "record_id": "P006-S02",
+      "pin_id": "761600987041739318",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739318/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/d1/8c/bc/d18cbc73f3aebe43c4307517d20df6b0.jpg",
+      "asset_file": "assets/d18cbc73f3aebe43c4307517d20df6b0.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P006-S02.md",
+      "title": "Free Like a Jazz — erkek portresi",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "BRAND",
+        "CAP_REFERENCE"
+      ],
+      "sha256": "9cc91ee89617ab5c9de9b8cddc1bb9c204dbd0a351e514d4dd4c8fb17cf125b7"
+    },
+    {
+      "record_id": "P006-S03",
+      "pin_id": "761600987041739318",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739318/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/a4/c9/26/a4c92675928588cc1d2f06e34dc76e5a.jpg",
+      "asset_file": "assets/a4c92675928588cc1d2f06e34dc76e5a.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P006-S03.md",
+      "title": "Free Like a Jazz — harflerle ürün katmanı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "CAP_REFERENCE"
+      ],
+      "sha256": "0222c2982967fd1b227193c2a9a90f393c86bae3ab181d204c33f385c211191a"
+    },
+    {
+      "record_id": "P006-S04",
+      "pin_id": "761600987041739318",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739318/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/e6/60/9f/e6609fc51ae5882e7cc87e370287da34.jpg",
+      "asset_file": "assets/e6609fc51ae5882e7cc87e370287da34.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P006-S04.md",
+      "title": "Free Like a Jazz — kadın portresi",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "BRAND",
+        "CAP_REFERENCE"
+      ],
+      "sha256": "adff4a2221c4d311f9b1fb0f2fd2046cefe68e758c3393f45f850c53b2b0b797"
+    },
+    {
+      "record_id": "P006-S05",
+      "pin_id": "761600987041739318",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739318/",
+      "asset_index": 5,
+      "source_url": "https://i.pinimg.com/736x/ab/e1/64/abe164d187ad4342b5ea4df2f91227d5.jpg",
+      "asset_file": "assets/abe164d187ad4342b5ea4df2f91227d5.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P006-S05.md",
+      "title": "Free Like a Jazz — ön ürün ve teklif",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "APPROVED_PRICE",
+        "CAP_REFERENCE"
+      ],
+      "sha256": "6378cc35573941c0b374586294076b5fbf5c62b07a7cda7528c8b2f885eec6b7"
+    },
+    {
+      "record_id": "P007-S01",
+      "pin_id": "761600987041739317",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739317/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/12/3f/13/123f13ce68fad83c24cd2b6b7b2c48ae.jpg",
+      "asset_file": "assets/123f13ce68fad83c24cd2b6b7b2c48ae.jpg",
+      "dimensions": [
+        1200,
+        1433
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P007-S01.md",
+      "title": "Vertical — metal uygulama ikonu",
+      "role": "interface",
+      "role_label": "Arayüz / ikon",
+      "brief_variables": [
+        "BRAND",
+        "LOGO_MASTER"
+      ],
+      "sha256": "48447e8d5ef65606b018679b928a7c3eaa50ae0eac6f58b4571451f21a92a352"
+    },
+    {
+      "record_id": "P008-S01",
+      "pin_id": "761600987041739316",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739316/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/15/d3/f1/15d3f120273423db881380c1f3bd47fe.jpg",
+      "asset_file": "assets/15d3f120273423db881380c1f3bd47fe.jpg",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P008-S01.md",
+      "title": "The Club — kort ve büyük pano",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "APPROVED_DATE",
+        "CLUB_NAME"
+      ],
+      "sha256": "c3f50a4c58907bdd4c22d47b67ed7130c4d9836b18daed5e624b95f31f61b997"
+    },
+    {
+      "record_id": "P009-S01",
+      "pin_id": "761600987041739314",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739314/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/26/4f/c0/264fc0eea68f80283d39405417eade10.jpg",
+      "asset_file": "assets/264fc0eea68f80283d39405417eade10.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P009-S01.md",
+      "title": "Tennis Club — bantlı kâğıt duyuru",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "CLUB_NAME"
+      ],
+      "sha256": "6e26a8eeef2158fa3e5820dc345a91ea49bd7f9543dc42a1ced41d510906859a"
+    },
+    {
+      "record_id": "P010-S01",
+      "pin_id": "761600987041739313",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739313/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/f1/c8/7a/f1c87ab1b963f90be4cd66df00ea0a5e.jpg",
+      "asset_file": "assets/f1c87ab1b963f90be4cd66df00ea0a5e.jpg",
+      "dimensions": [
+        735,
+        1146
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P010-S01.md",
+      "title": "Yolk Club — kahvaltı kimlik panosu",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "dd1672356c10cd79a9b52424e1c38d1f51ae2d6ffc84cca9cf405fb68dedfc77"
+    },
+    {
+      "record_id": "P011-S01",
+      "pin_id": "761600987041739312",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739312/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/a4/cf/2e/a4cf2eb9cfe5013ff74d71e983646879.jpg",
+      "asset_file": "assets/a4cf2eb9cfe5013ff74d71e983646879.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P011-S01.md",
+      "title": "Westfield — tenis kulübü altılı kimlik",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "6763bb0c4df30ae595350c71b3224a34af4832c2c30e203524aa16f596d19da7"
+    },
+    {
+      "record_id": "P012-S01",
+      "pin_id": "761600987041739310",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739310/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/36/97/d9/3697d9f0a40d2ba30400ad2ecd629057.jpg",
+      "asset_file": "assets/3697d9f0a40d2ba30400ad2ecd629057.jpg",
+      "dimensions": [
+        736,
+        1308
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P012-S01.md",
+      "title": "Marketing — krom harf ve klasör",
+      "role": "poster",
+      "role_label": "Poster / reklam",
+      "brief_variables": [
+        "HEADLINE"
+      ],
+      "sha256": "be33d8022592740a2cc740a6304752857ac3d48c3a446e42d3e8e626ce9b8717"
+    },
+    {
+      "record_id": "P013-S01",
+      "pin_id": "761600987041739306",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739306/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/4b/ec/c8/4becc8cf302d704c40e9bca5f3e345a1.jpg",
+      "asset_file": "assets/4becc8cf302d704c40e9bca5f3e345a1.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P013-S01.md",
+      "title": "Wesley & Co. — binicilik kırtasiyesi",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "494571564181bbc112d604dc065bcae4f334054f50402b8a68119a76ace570eb"
+    },
+    {
+      "record_id": "P014-S01",
+      "pin_id": "761600987041739305",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739305/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/ac/b2/7d/acb27d1cbce683df40d77693b00a3fe8.jpg",
+      "asset_file": "assets/acb27d1cbce683df40d77693b00a3fe8.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P014-S01.md",
+      "title": "Artisan — metal klasör kimliği",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "beeedc7dcff7541c5735f83e7577d533c1c2b657e5c394e9dd9e816dbe799ffe"
+    },
+    {
+      "record_id": "P015-S01",
+      "pin_id": "761600987041739304",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739304/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/c9/7d/d5/c97dd5c571f534dacbd5048fad83bb9e.jpg",
+      "asset_file": "assets/c97dd5c571f534dacbd5048fad83bb9e.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P015-S01.md",
+      "title": "ASICS — retro ayakkabı afişi",
+      "role": "poster",
+      "role_label": "Poster / reklam",
+      "brief_variables": [
+        "BRAND",
+        "SHOE_REFERENCE"
+      ],
+      "sha256": "320eb11365bea20ae1792e943a8fbd8f28ea5a4fbe3f0a680466d0d8beda9246"
+    },
+    {
+      "record_id": "P016-S01",
+      "pin_id": "761600987041739299",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739299/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/94/df/aa/94dfaa28d966593869b563a495d9fb74.jpg",
+      "asset_file": "assets/94dfaa28d966593869b563a495d9fb74.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P016-S01.md",
+      "title": "The Club — dokuzlu şablon sistemi",
+      "role": "social",
+      "role_label": "Sosyal seri",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "b68d321fe98f8977bc21163c1979ccb78208d90592ddf1c45f3bb6bff7ca4bd7"
+    },
+    {
+      "record_id": "P017-S01",
+      "pin_id": "761600987041739298",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739298/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/58/a3/65/58a3653cf37f692c28fc861c97af3c1b.jpg",
+      "asset_file": "assets/58a3653cf37f692c28fc861c97af3c1b.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P017-S01.md",
+      "title": "K monogram — mor kumaş ve metal",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "MONOGRAM"
+      ],
+      "sha256": "ab2f61066ec5e112f02b5dd4e2416d311b66b172cd2ad4ebd9ece2a102e3628c"
+    },
+    {
+      "record_id": "P018-S01",
+      "pin_id": "761600987041739277",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739277/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/59/19/4e/59194e3e45e51639da84271ea9540088.jpg",
+      "asset_file": "assets/59194e3e45e51639da84271ea9540088.jpg",
+      "dimensions": [
+        1200,
+        1697
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P018-S01.md",
+      "title": "The Art of Creating — risograf kolaj",
+      "role": "poster",
+      "role_label": "Poster / reklam",
+      "brief_variables": [
+        "HEADLINE"
+      ],
+      "sha256": "389841e6339aceb13e9752a6267cdb251566e5ebf52844ade58ced7d45628d70"
+    },
+    {
+      "record_id": "P019-S01",
+      "pin_id": "761600987041739219",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739219/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/ac/3a/a5/ac3aa590afa7f87a21a278dd86f54e50.jpg",
+      "asset_file": "assets/ac3aa590afa7f87a21a278dd86f54e50.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P019-S01.md",
+      "title": "Odd Jobs — ajans dokuzlu kampanya",
+      "role": "social",
+      "role_label": "Sosyal seri",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "46311926520627a7ff616db432aa97ac49ea2481e7e06f21e540d491abb03493"
+    },
+    {
+      "record_id": "P020-S01",
+      "pin_id": "761600987041739207",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739207/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/4f/11/d2/4f11d26dd8c4557adc89d61cba64b9cc.jpg",
+      "asset_file": "assets/4f11d26dd8c4557adc89d61cba64b9cc.jpg",
+      "dimensions": [
+        564,
+        936
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P020-S01.md",
+      "title": "Matcha — dokuzlu içerik serisi",
+      "role": "social",
+      "role_label": "Sosyal seri",
+      "brief_variables": [],
+      "sha256": "c60a6b407a98a992e7d16219af6202eea1c3dcc92100736cc8abb067fbe35f86"
+    },
+    {
+      "record_id": "P021-S01",
+      "pin_id": "761600987041739204",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739204/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/a6/be/48/a6be48ac87b3f0b7a735814c2a4aea4c.jpg",
+      "asset_file": "assets/a6be48ac87b3f0b7a735814c2a4aea4c.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P021-S01.md",
+      "title": "Dijital değer — cam/krom afiş",
+      "role": "poster",
+      "role_label": "Poster / reklam",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "557a64aec5a38c570f75edaa43814d84ef2153bb97327bcf3ffdfff840c47a74"
+    },
+    {
+      "record_id": "P022-S01",
+      "pin_id": "761600987041739194",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739194/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/d1/3c/aa/d13caa063d19f28a65489a9033cc99f4.jpg",
+      "asset_file": "assets/d13caa063d19f28a65489a9033cc99f4.jpg",
+      "dimensions": [
+        736,
+        1308
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P022-S01.md",
+      "title": "Westbury — golf gardırop natürmortu",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "35a8c352952ed56482123dec212c013ba23db5441f52e1b7fff5ff3860ced7cd"
+    },
+    {
+      "record_id": "P023-S01",
+      "pin_id": "761600987041739191",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739191/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/aa/ad/61/aaad61e1d749298b1f7102c35eb7c5de.jpg",
+      "asset_file": "assets/aaad61e1d749298b1f7102c35eb7c5de.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P023-S01.md",
+      "title": "Deri eyer — altın arma yakın plan",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "d40ee53a702b55f671bcd89211398f11e432eed5c8a84c1c1bcdfc0f0fa02953"
+    },
+    {
+      "record_id": "P024-S01",
+      "pin_id": "761600987041739184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739184/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/bb/7e/a8/bb7ea8b68cefac3b01bb2430352020c2.jpg",
+      "asset_file": "assets/bb7ea8b68cefac3b01bb2430352020c2.jpg",
+      "dimensions": [
+        420,
+        525
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P024-S01.md",
+      "title": "Dört lacivert şapka — karanlık ürün kümesi",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "ac13192a295ca5c0a94ef1c80ab5bb6fe904701f024b51118e19f5bd095f0ebf"
+    },
+    {
+      "record_id": "P025-S01",
+      "pin_id": "761600987041739168",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739168/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/22/22/3f/22223f30497702f9fb2cca7d7c317401.jpg",
+      "asset_file": "assets/22223f30497702f9fb2cca7d7c317401.jpg",
+      "dimensions": [
+        600,
+        1200
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P025-S01.md",
+      "title": "Akoni — gözlük işçilik şeridi",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "EYEWEAR_REFERENCE"
+      ],
+      "sha256": "68f474b201c42ca30f068d221d0548dfcb9ed3bf6ff01938c13178a0dbfb5bac"
+    },
+    {
+      "record_id": "P026-S01",
+      "pin_id": "761600987041739166",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739166/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/d0/06/a6/d006a670d96433f672e99f2378a2ef8a.jpg",
+      "asset_file": "assets/d006a670d96433f672e99f2378a2ef8a.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P026-S01.md",
+      "title": "Şeffaf kart — elde beyaz yıldız",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "LOGO_MASTER"
+      ],
+      "sha256": "77583dc2ac0dcf549b84aab5440aae67430e2b7b396cee1d975037070f1bdfe3"
+    },
+    {
+      "record_id": "P027-S01",
+      "pin_id": "761600987041739164",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739164/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/40/ff/e4/40ffe4f4a05d26ea83a7461c81600e56.jpg",
+      "asset_file": "assets/40ffe4f4a05d26ea83a7461c81600e56.jpg",
+      "dimensions": [
+        1200,
+        2133
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P027-S01.md",
+      "title": "Biomos — yosun üzerinde kavanozlar",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "a739c77517862e79606db69ffbc845b510fdb3b7406773b95bfc2424af62a0da"
+    },
+    {
+      "record_id": "P028-S01",
+      "pin_id": "761600987041739160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739160/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/05/b4/11/05b411245d2b54936129e7ad899f7015.jpg",
+      "asset_file": "assets/05b411245d2b54936129e7ad899f7015.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P028-S01.md",
+      "title": "Golf — eldiven ve monogram",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "MONOGRAM"
+      ],
+      "sha256": "3cfcc6eaa3c3d96663d5ad2e0d70efafc8dd52d31156f446a76f6b3fcd1c1877"
+    },
+    {
+      "record_id": "P029-S01",
+      "pin_id": "761600987041739147",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739147/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/d6/cd/a4/d6cda48139b92073c1dc9d04ae28a2b4.jpg",
+      "asset_file": "assets/d6cda48139b92073c1dc9d04ae28a2b4.jpg",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P029-S01.md",
+      "title": "Akıllı gözlük — menteşe çift makro",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "BRAND",
+        "EYEWEAR_REFERENCE"
+      ],
+      "sha256": "5b96d5160d1724e6d53a3734f5a5c810589ec536868a5ba6daff6deebacc20a0"
+    },
+    {
+      "record_id": "P030-S01",
+      "pin_id": "761600987041739145",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739145/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/16/31/85/163185b989049badcb23f529b6fcc440.jpg",
+      "asset_file": "assets/163185b989049badcb23f529b6fcc440.jpg",
+      "dimensions": [
+        1200,
+        1500
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P030-S01.md",
+      "title": "Kaplumbağa desenli gözlük — turuncu kum",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "EYEWEAR_REFERENCE",
+        "HEADLINE"
+      ],
+      "sha256": "e0dd47185761a4e75aca64cb7a06c861dff2515b8ff0d0cd9f250dc49e9307ee"
+    },
+    {
+      "record_id": "P031-S01",
+      "pin_id": "761600987041739138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739138/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/76/35/85/7635857bc7c550fbaf8958d3133b757e.jpg",
+      "asset_file": "assets/7635857bc7c550fbaf8958d3133b757e.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P031-S01.md",
+      "title": "Lime metal ürün — düzen incelemesi",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "PRODUCT_REFERENCE"
+      ],
+      "sha256": "397d77a8551b4b9e709769bb0b68ec94343dbee1f3b67418199db5370e80d055",
+      "adaptation": "Source depicts a nicotine device; reusable prompt substitutes a neutral non-regulated electronic product and excludes nicotine promotion."
+    },
+    {
+      "record_id": "P032-S01",
+      "pin_id": "761600987041739131",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739131/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/69/e2/34/69e2344b3f17664d661a3fd78450f254.jpg",
+      "asset_file": "assets/69e2344b3f17664d661a3fd78450f254.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P032-S01.md",
+      "title": "Chair — büyük serif ve koltuk",
+      "role": "poster",
+      "role_label": "Poster / reklam",
+      "brief_variables": [
+        "BRAND",
+        "HEADLINE"
+      ],
+      "sha256": "23c6067b4e3fdcf8579c1e14ea8b5ebb631b1bd59a91268423d42af12abe8e35"
+    },
+    {
+      "record_id": "P033-S01",
+      "pin_id": "761600987041739129",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739129/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/8f/41/6c/8f416c55a30974fe0890152b52d436ff.jpg",
+      "asset_file": "assets/8f416c55a30974fe0890152b52d436ff.jpg",
+      "dimensions": [
+        1028,
+        1764
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P033-S01.md",
+      "title": "Unbordered — siyah moda web sunumu",
+      "role": "web",
+      "role_label": "Web sunumu",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "f3adfc90415ca38e22998212de6dc3f8fa0b617905f7fc8f5f86187b295c6655"
+    },
+    {
+      "record_id": "P034-S01",
+      "pin_id": "761600987041739127",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739127/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/28/8b/f6/288bf622b71f0e7cee501472f4f9c7ca.jpg",
+      "asset_file": "assets/288bf622b71f0e7cee501472f4f9c7ca.jpg",
+      "dimensions": [
+        1200,
+        1500
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P034-S01.md",
+      "title": "Arclyn — yeşil kumaş üstü altın logo",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "LOGO_MASTER"
+      ],
+      "sha256": "b23f4cfb9355d2e6cbf6421693906dede7a137b44642fb52158920a550e65b36"
+    },
+    {
+      "record_id": "P035-S01",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/57/35/02/573502a22d409a1aa29d4e5e49f4b2d5.jpg",
+      "asset_file": "assets/573502a22d409a1aa29d4e5e49f4b2d5.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S01.md",
+      "title": "Salty — portakal kasasında paketli şapka",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [],
+      "sha256": "f0057b4c404d987015b7dbf4cc4b3b846a51c30bb3791ebac63f199f3b60acdf"
+    },
+    {
+      "record_id": "P035-S02",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/5b/4f/88/5b4f882bb88d5a637d541e6f86c65428.jpg",
+      "asset_file": "assets/5b4f882bb88d5a637d541e6f86c65428.jpg",
+      "dimensions": [
+        736,
+        980
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S02.md",
+      "title": "Şapkalı köpek — doğal ev fotoğrafı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [],
+      "sha256": "0609307ec3f966245d4ff19f8ba758365df8b7ae3faab1adf4db746883e5e4a3"
+    },
+    {
+      "record_id": "P035-S03",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/61/31/cb/6131cbfcbc2f34b379dfcd38d072e283.jpg",
+      "asset_file": "assets/6131cbfcbc2f34b379dfcd38d072e283.jpg",
+      "dimensions": [
+        735,
+        980
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S03.md",
+      "title": "Mama — deniz önünde şapka kullanımı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [],
+      "sha256": "b3eb23522e0533e06b8f834b2364473849bd9562ecb2bd67e69263ee7c708ea5"
+    },
+    {
+      "record_id": "P035-S04",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/fb/bc/8c/fbbc8c20085c3150dc8bdd72263ec5a7.jpg",
+      "asset_file": "assets/fbbc8c20085c3150dc8bdd72263ec5a7.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S04.md",
+      "title": "Salty — mor şapka katalog",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "TEXT"
+      ],
+      "sha256": "190a4faca1f5558ec7374c6a190e6907a03223e1f2c29e5a71a2bc500af7ad12"
+    },
+    {
+      "record_id": "P035-S05",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 5,
+      "source_url": "https://i.pinimg.com/736x/d4/c6/f3/d4c6f317d3846a8e661f83d34782afe3.jpg",
+      "asset_file": "assets/d4c6f317d3846a8e661f83d34782afe3.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S05.md",
+      "title": "Salty — mavi şapka laptop üzerinde",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "TEXT"
+      ],
+      "sha256": "013bf3e715b857736bafc38af381f3d8f3404d744ff292cee2b4b2de4b03c3c0"
+    },
+    {
+      "record_id": "P035-S06",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 6,
+      "source_url": "https://i.pinimg.com/736x/6d/ea/4a/6dea4ae2d9372bcd37210b06ba41b8d1.jpg",
+      "asset_file": "assets/6dea4ae2d9372bcd37210b06ba41b8d1.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S06.md",
+      "title": "Salty — pembe şapka katalog",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "TEXT"
+      ],
+      "sha256": "12e9aabe92594536fbeeaa9dbcffbe7f8e9e44ec75babc06c12d949690ca4de0"
+    },
+    {
+      "record_id": "P035-S07",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 7,
+      "source_url": "https://i.pinimg.com/736x/fa/c1/5e/fac15edbe547fee3d10fdd3766910f80.jpg",
+      "asset_file": "assets/fac15edbe547fee3d10fdd3766910f80.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S07.md",
+      "title": "Salty — yeşil şapka katalog",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "PRODUCT_FAMILY",
+        "TEXT"
+      ],
+      "sha256": "3cf8299206e435911678342f9d423cd878e67eb81e7e1835f1c3ca9aa81465c0"
+    },
+    {
+      "record_id": "P035-S08",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 8,
+      "source_url": "https://i.pinimg.com/736x/85/68/5a/85685a372cc4a00bad9dce5dc6bc1d63.jpg",
+      "asset_file": "assets/85685a372cc4a00bad9dce5dc6bc1d63.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S08.md",
+      "title": "Salty — turuncu şapka katalog",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "LOGO_MASTER"
+      ],
+      "sha256": "b5ade9728d8983123f99f36edc00345ad597c5ed844e23b88f30f090a8743dfb"
+    },
+    {
+      "record_id": "P035-S09",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 9,
+      "source_url": "https://i.pinimg.com/736x/89/04/6a/89046ac62d96a7b0a0495157659501fa.jpg",
+      "asset_file": "assets/89046ac62d96a7b0a0495157659501fa.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S09.md",
+      "title": "Mavi kılıf — köpek aplike",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [],
+      "sha256": "630d50dbf1206c1e5202824cd561f79bf8bf50e8d62b20047b41a74540f92260"
+    },
+    {
+      "record_id": "P035-S10",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 10,
+      "source_url": "https://i.pinimg.com/736x/0d/59/a4/0d59a40d2b590863b365d4ac74bfa1ca.jpg",
+      "asset_file": "assets/0d59a40d2b590863b365d4ac74bfa1ca.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S10.md",
+      "title": "Kırmızı kılıf — köpek aplike",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "PRODUCT_FAMILY"
+      ],
+      "sha256": "ac26c805074f7e3f856ab9b864bbf052f95f71625243aeee1cce71d785f86451"
+    },
+    {
+      "record_id": "P035-S11",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 11,
+      "source_url": "https://i.pinimg.com/736x/73/aa/0f/73aa0f22fc573ac8914edb800be68c80.jpg",
+      "asset_file": "assets/73aa0f22fc573ac8914edb800be68c80.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S11.md",
+      "title": "Denizci kuş figürleri — çift ürün",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [],
+      "sha256": "c816c61cd3739fe70d95cb6eb7c5d3072f1515ee513c535f1b15da19009b3446"
+    },
+    {
+      "record_id": "P035-S12",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 12,
+      "source_url": "https://i.pinimg.com/736x/e7/62/43/e76243027422d12eccce1717b370bcb3.jpg",
+      "asset_file": "assets/e76243027422d12eccce1717b370bcb3.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S12.md",
+      "title": "Balina kuyruğu figürleri — ikili dekor",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [],
+      "sha256": "93fb514ce09b36a22537c008869c09e22890488c6fe479b572a47a7cbae991e3"
+    },
+    {
+      "record_id": "P035-S13",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 13,
+      "source_url": "https://i.pinimg.com/736x/dd/63/0b/dd630ba1d43e37d9fa282eae78d1548c.jpg",
+      "asset_file": "assets/dd630ba1d43e37d9fa282eae78d1548c.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S13.md",
+      "title": "Mavi denizyıldızı tabak",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [],
+      "sha256": "80373d36af9e495c21c6e3f3f031f04053ffef6c3ba8691ab65cbb6b6310408b"
+    },
+    {
+      "record_id": "P035-S14",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 14,
+      "source_url": "https://i.pinimg.com/736x/18/08/ba/1808ba340acf8481dbd6c6bb0e3ba4e0.jpg",
+      "asset_file": "assets/1808ba340acf8481dbd6c6bb0e3ba4e0.jpg",
+      "dimensions": [
+        735,
+        979
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S14.md",
+      "title": "Krem denizyıldızı tabak",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "PRODUCT_FAMILY"
+      ],
+      "sha256": "23f1a3f7b6ee5e856d093940b285c3077d8a68d382a212e00799bfb140576fba"
+    },
+    {
+      "record_id": "P035-S15",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 15,
+      "source_url": "https://i.pinimg.com/736x/a9/0a/f9/a90af944f5c7017bcd68eeabc841796e.jpg",
+      "asset_file": "assets/a90af944f5c7017bcd68eeabc841796e.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S15.md",
+      "title": "Altı bölmeli açık ahşap kutu",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [],
+      "sha256": "96e770eaafd4abfdf75f232a7fd90e19ba33d4093038ca5c95ebf79329cf81a8"
+    },
+    {
+      "record_id": "P035-S16",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 16,
+      "source_url": "https://i.pinimg.com/736x/a4/e9/fa/a4e9fa80c7379c514a8133512d472769.jpg",
+      "asset_file": "assets/a4e9fa80c7379c514a8133512d472769.jpg",
+      "dimensions": [
+        736,
+        980
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S16.md",
+      "title": "Beach — ahşap sahil panosu detayı",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [
+        "WORD"
+      ],
+      "sha256": "2c62024dc0f405a19d797fa79f084f5afcf8cb7fa35807355949b2f764419e27"
+    },
+    {
+      "record_id": "P035-S17",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 17,
+      "source_url": "https://i.pinimg.com/736x/83/e2/27/83e227282b7a058e5226393a41206d88.jpg",
+      "asset_file": "assets/83e227282b7a058e5226393a41206d88.jpg",
+      "dimensions": [
+        736,
+        980
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S17.md",
+      "title": "Çilek biçimli iki mutfak objesi",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [],
+      "sha256": "c73f5742da13de51d265cabbc7009c686431d550e879c0b3fd483f1f76bb0e9b"
+    },
+    {
+      "record_id": "P035-S18",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 18,
+      "source_url": "https://i.pinimg.com/736x/d8/84/55/d884552ea21700ad294a9718c948961c.jpg",
+      "asset_file": "assets/d884552ea21700ad294a9718c948961c.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S18.md",
+      "title": "Plaj bulmaca kitabı — güneşli flatlay",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "a2af6f469c42c0368c50744139507416c1996ffa662a2084850adb116f395aef"
+    },
+    {
+      "record_id": "P035-S19",
+      "pin_id": "761600987041739120",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739120/",
+      "asset_index": 19,
+      "source_url": "https://i.pinimg.com/736x/28/a2/c6/28a2c6ff7d2c004ad5f67a1cb8eebbb8.jpg",
+      "asset_file": "assets/28a2c6ff7d2c004ad5f67a1cb8eebbb8.jpg",
+      "dimensions": [
+        736,
+        980
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P035-S19.md",
+      "title": "Pembe saten bale ayakkabısı biçimli çanta",
+      "role": "product",
+      "role_label": "Ürün / malzeme",
+      "brief_variables": [],
+      "sha256": "e92a43a62e50149c4c23bee4699c56d548313c5fd8447fb905af51bc217d9f60"
+    },
+    {
+      "record_id": "P036-S01",
+      "pin_id": "761600987041739115",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739115/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/d2/ee/11/d2ee114736f953bff6bba71a1f62c497.jpg",
+      "asset_file": "assets/d2ee114736f953bff6bba71a1f62c497.jpg",
+      "dimensions": [
+        735,
+        533
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P036-S01.md",
+      "title": "Çim biçme — zeminde grafik",
+      "role": "environmental",
+      "role_label": "Mekân / çevresel grafik",
+      "brief_variables": [],
+      "sha256": "13bbbeb432679d79d7466f42442648c49d8cdadca25c39dbfbbdbddcc4153a19"
+    },
+    {
+      "record_id": "P037-S01",
+      "pin_id": "761600987041739107",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739107/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/03/84/ac/0384ac11e56aa7785de62cee4c0a49d2.jpg",
+      "asset_file": "assets/0384ac11e56aa7785de62cee4c0a49d2.jpg",
+      "dimensions": [
+        447,
+        547
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P037-S01.md",
+      "title": "Çim içine işlenmiş harf — editoryal kapak",
+      "role": "environmental",
+      "role_label": "Mekân / çevresel grafik",
+      "brief_variables": [
+        "HEADLINE",
+        "INITIAL"
+      ],
+      "sha256": "367ce346d5d681a352cae59e8400cc82f666d2db372b02be8b706434df918be8"
+    },
+    {
+      "record_id": "P038-S01",
+      "pin_id": "761600987041739105",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739105/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/4a/64/fb/4a64fb3f94d6a51eca82258e43963145.jpg",
+      "asset_file": "assets/4a64fb3f94d6a51eca82258e43963145.jpg",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P038-S01.md",
+      "title": "Mavi kumaş — köşeli metal monogram",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "605fd02a12fb2b9966274b09e8a54b9ff7fa97480d084fbe461316a492e544b1"
+    },
+    {
+      "record_id": "P039-S01",
+      "pin_id": "761600987041739096",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739096/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/3a/c0/fa/3ac0fad3d12a8e1ea1bef3b192234985.jpg",
+      "asset_file": "assets/3ac0fad3d12a8e1ea1bef3b192234985.jpg",
+      "dimensions": [
+        1200,
+        1500
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P039-S01.md",
+      "title": "Through Clarity — lensli tipografi",
+      "role": "poster",
+      "role_label": "Poster / reklam",
+      "brief_variables": [
+        "BRAND",
+        "HEADLINE"
+      ],
+      "sha256": "19e6bde2cb9ad3fb72ebc6703762b1f79d8b618e9717e063ea026e46a2cf7c67"
+    },
+    {
+      "record_id": "P040-S01",
+      "pin_id": "761600987041739095",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739095/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/2f/48/fb/2f48fbfbea4d26d10c1259a73b4ad458.jpg",
+      "asset_file": "assets/2f48fbfbea4d26d10c1259a73b4ad458.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P040-S01.md",
+      "title": "Local Space — üst üste dört şapka",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "BRAND",
+        "HEADLINE"
+      ],
+      "sha256": "fc78b53f330a13eec15e73b2236a9a372a606f51042f60a9549d106cdb663031"
+    },
+    {
+      "record_id": "P041-S01",
+      "pin_id": "761600987041739093",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739093/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/b2/bd/bb/b2bdbbee8babfe901805144008bfd66f.jpg",
+      "asset_file": "assets/b2bdbbee8babfe901805144008bfd66f.jpg",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P041-S01.md",
+      "title": "N monogram — yosun yüzey",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "MONOGRAM"
+      ],
+      "sha256": "91dc6fa326ae4025dfd4d7db6cbc7ff183131b804c3816bebf4ba206fbe5e13a"
+    },
+    {
+      "record_id": "P042-S01",
+      "pin_id": "761600987041739048",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739048/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/80/7f/99/807f9903fad4b4e55f324688c01e237b.jpg",
+      "asset_file": "assets/807f9903fad4b4e55f324688c01e237b.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": "P006-S01",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P042-S01.md",
+      "title": "Free Like a Jazz — elde şapka — tekrar kaydı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "LOGO_MASTER"
+      ],
+      "sha256": "21083b45d75ce0a5e5a966490cd8f0cd6e0f0139ad3ca89c4dabd39dd2c3505a"
+    },
+    {
+      "record_id": "P042-S02",
+      "pin_id": "761600987041739048",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739048/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/d1/8c/bc/d18cbc73f3aebe43c4307517d20df6b0.jpg",
+      "asset_file": "assets/d18cbc73f3aebe43c4307517d20df6b0.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": "P006-S02",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P042-S02.md",
+      "title": "Free Like a Jazz — erkek portresi — tekrar kaydı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "BRAND",
+        "CAP_REFERENCE"
+      ],
+      "sha256": "9cc91ee89617ab5c9de9b8cddc1bb9c204dbd0a351e514d4dd4c8fb17cf125b7"
+    },
+    {
+      "record_id": "P042-S03",
+      "pin_id": "761600987041739048",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739048/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/a4/c9/26/a4c92675928588cc1d2f06e34dc76e5a.jpg",
+      "asset_file": "assets/a4c92675928588cc1d2f06e34dc76e5a.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": "P006-S03",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P042-S03.md",
+      "title": "Free Like a Jazz — harflerle ürün katmanı — tekrar kaydı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "CAP_REFERENCE"
+      ],
+      "sha256": "0222c2982967fd1b227193c2a9a90f393c86bae3ab181d204c33f385c211191a"
+    },
+    {
+      "record_id": "P042-S04",
+      "pin_id": "761600987041739048",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739048/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/e6/60/9f/e6609fc51ae5882e7cc87e370287da34.jpg",
+      "asset_file": "assets/e6609fc51ae5882e7cc87e370287da34.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": "P006-S04",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P042-S04.md",
+      "title": "Free Like a Jazz — kadın portresi — tekrar kaydı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "BRAND",
+        "CAP_REFERENCE"
+      ],
+      "sha256": "adff4a2221c4d311f9b1fb0f2fd2046cefe68e758c3393f45f850c53b2b0b797"
+    },
+    {
+      "record_id": "P042-S05",
+      "pin_id": "761600987041739048",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739048/",
+      "asset_index": 5,
+      "source_url": "https://i.pinimg.com/736x/ab/e1/64/abe164d187ad4342b5ea4df2f91227d5.jpg",
+      "asset_file": "assets/abe164d187ad4342b5ea4df2f91227d5.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": "P006-S05",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P042-S05.md",
+      "title": "Free Like a Jazz — ön ürün ve teklif — tekrar kaydı",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "APPROVED_PRICE",
+        "CAP_REFERENCE"
+      ],
+      "sha256": "6378cc35573941c0b374586294076b5fbf5c62b07a7cda7528c8b2f885eec6b7"
+    },
+    {
+      "record_id": "P043-S01",
+      "pin_id": "761600987041739008",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739008/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/c9/4f/24/c94f247d30d08c805ff0761ee2ce9eab.jpg",
+      "asset_file": "assets/c94f247d30d08c805ff0761ee2ce9eab.jpg",
+      "dimensions": [
+        1200,
+        1500
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P043-S01.md",
+      "title": "The Caps — ipe asılı iki şapka",
+      "role": "apparel",
+      "role_label": "Tekstil / aksesuar",
+      "brief_variables": [
+        "HEADLINE"
+      ],
+      "sha256": "c25941e7b9c032d293d7fe8b2d4ca80a4b958e1d4c1004838dfcb7935d470a89"
+    },
+    {
+      "record_id": "P044-S01",
+      "pin_id": "761600987041739006",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739006/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/69/d4/57/69d457099c3365d77b5e61c6f0dccdfc.jpg",
+      "asset_file": "assets/69d457099c3365d77b5e61c6f0dccdfc.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P044-S01.md",
+      "title": "The Club — aynı duyurunun ikinci kaydı",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "APPROVED_DATE",
+        "CLUB_NAME"
+      ],
+      "sha256": "d80d19820fc2845a32758ad70882503c6da7f4bb9c9f94f0f72279f1edcc1c12",
+      "same_design_as": "P008-S01"
+    },
+    {
+      "record_id": "P045-S01",
+      "pin_id": "761600987041739005",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739005/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/59/93/36/5993368e8bd3f764b4ac6d33308c3586.jpg",
+      "asset_file": "assets/5993368e8bd3f764b4ac6d33308c3586.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P045-S01.md",
+      "title": "L’Atelier du Padel — sandalye natürmortu",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "0611f3455615982662cf15a1f37c2c4e4c4156d247ac4e349413466a19866eb0"
+    },
+    {
+      "record_id": "P046-S01",
+      "pin_id": "761600987041739002",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739002/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/50/48/e2/5048e2e67ec989957782d6c9d6b6e512.jpg",
+      "asset_file": "assets/5048e2e67ec989957782d6c9d6b6e512.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P046-S01.md",
+      "title": "Le Blanc — kortta sandalye ve portakallar",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "CLUB_NAME"
+      ],
+      "sha256": "7eb69af2f804997fde23e94dc222c9bd6ff3ea9d0d9899baf4b39d4dbe855ea4"
+    },
+    {
+      "record_id": "P047-S01",
+      "pin_id": "761600987041739000",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041739000/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/30/10/0f/30100fcd5324de07c65a1b6e950f16dc.jpg",
+      "asset_file": "assets/30100fcd5324de07c65a1b6e950f16dc.jpg",
+      "dimensions": [
+        735,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P047-S01.md",
+      "title": "UCLA — dokuz kare tenis sosyal serisi",
+      "role": "social",
+      "role_label": "Sosyal seri",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "7fcd8d7ac77b4012de3529d58d2fe45928cd6ac5218f638748c5e45b0048ee1c"
+    },
+    {
+      "record_id": "P048-S01",
+      "pin_id": "761600987041738997",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738997/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/f6/f8/aa/f6f8aa3df74ea835bd442dfac3d479ea.jpg",
+      "asset_file": "assets/f6f8aa3df74ea835bd442dfac3d479ea.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P048-S01.md",
+      "title": "Old Money — kortta oturan moda portresi",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "HEADLINE"
+      ],
+      "sha256": "c7ba373544273825b11b4621c40bd0fb950e28ba0d13f26ded213db2fe665408"
+    },
+    {
+      "record_id": "P049-S01",
+      "pin_id": "761600987041738993",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738993/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/e3/b1/52/e3b1520fba085355263ded3a8438ac6f.jpg",
+      "asset_file": "assets/e3b1520fba085355263ded3a8438ac6f.jpg",
+      "dimensions": [
+        736,
+        736
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P049-S01.md",
+      "title": "Cheeky Chow — kobalt ambalaj flatlay",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "7c856bc1b8a002324e7eb0ef57573ec247c0abf3dfc2bbb33af39e6acb906d2e"
+    },
+    {
+      "record_id": "P050-S01",
+      "pin_id": "761600987041738812",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738812/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/94/1d/8f/941d8f8019b88a409db35f6fff9da074.jpg",
+      "asset_file": "assets/941d8f8019b88a409db35f6fff9da074.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P050-S01.md",
+      "title": "The Grid — uygulamalı spor kimliği",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "d49c7ffbb321bea0a52a109f9bfe31a0899d9a0cf47654bcb3fa4a69a7a93376"
+    },
+    {
+      "record_id": "P051-S01",
+      "pin_id": "761600987041738346",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738346/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/e6/d6/b9/e6d6b94f599bdaee8a440d86c146a6c0.jpg",
+      "asset_file": "assets/e6d6b94f599bdaee8a440d86c146a6c0.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P051-S01.md",
+      "title": ".baek — mavi kutu tekrarları",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "8a29b235548c1e841707f55804e91d2ea611b534a42900c256ee418ed6a32f86"
+    },
+    {
+      "record_id": "P052-S01",
+      "pin_id": "761600987041738343",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738343/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/6c/30/74/6c3074016f56c40c987b24864d66ceaa.jpg",
+      "asset_file": "assets/6c3074016f56c40c987b24864d66ceaa.jpg",
+      "dimensions": [
+        1199,
+        1499
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P052-S01.md",
+      "title": "OATEN — süt dökülen yulaf sofrası",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "a5774ca1c3983bd4501b97677ff265dc6d168ad0986b32d3a05726c791b3a46f"
+    },
+    {
+      "record_id": "P053-S01",
+      "pin_id": "761600987041738292",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738292/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/0a/54/90/0a54904ffb7eca8bc2c1e6f565d8a22c.jpg",
+      "asset_file": "assets/0a54904ffb7eca8bc2c1e6f565d8a22c.jpg",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P053-S01.md",
+      "title": "ZNÜNI — bordo tabaklarda sandviç",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "7ba04aabe447fb5e593480f03d62ca2793f19a3f7266905db7143f6ce5fc4cfc"
+    },
+    {
+      "record_id": "P054-S01",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/e1/1e/8d/e11e8d77053f3ed6dbb42208e56e4940.jpg",
+      "asset_file": "assets/e11e8d77053f3ed6dbb42208e56e4940.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S01.md",
+      "title": "SMASH 01 — çanta, bardak ve tepsi",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "3db9b3abba41f49e22a375e9ee1d40d754325ed04f9e9e1176b14d56ce5058c1"
+    },
+    {
+      "record_id": "P054-S02",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/47/5a/fe/475afe4259c5da6b6ca94adfb92ec34e.jpg",
+      "asset_file": "assets/475afe4259c5da6b6ca94adfb92ec34e.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S02.md",
+      "title": "SMASH 02 — saplı kâğıt çanta",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "f802db624a9070d081e207a33871544388728340745327d3fed023917da4acec"
+    },
+    {
+      "record_id": "P054-S03",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/90/19/61/901961f15e55967f45ba5951323e4dff.jpg",
+      "asset_file": "assets/901961f15e55967f45ba5951323e4dff.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S03.md",
+      "title": "SMASH 03 — patates üzerinde iki menü paneli",
+      "role": "print",
+      "role_label": "Basılı malzeme",
+      "brief_variables": [
+        "BRAND",
+        "MENU_TITLE"
+      ],
+      "sha256": "ad6382fcf351e374ab99d4b42668831ca6b6ab3547d1e4790f65df1302dc3f85"
+    },
+    {
+      "record_id": "P054-S04",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/5a/40/35/5a4035fa669d043927dcbc29043d441e.jpg",
+      "asset_file": "assets/5a4035fa669d043927dcbc29043d441e.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S04.md",
+      "title": "SMASH 04 — açık burger kutusu ve bardak",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "e0e5d5b2a6ecd8ed7083b0a0d129247e36e41e240b3e4e160375206bc82cc81a"
+    },
+    {
+      "record_id": "P054-S05",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 5,
+      "source_url": "https://i.pinimg.com/736x/30/e2/10/30e2103a69e3bb927d86e96f4d2b3f18.jpg",
+      "asset_file": "assets/30e2103a69e3bb927d86e96f4d2b3f18.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S05.md",
+      "title": "SMASH 05 — patates kutusu ve peçete",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "3e37285e6984f0153b90aafa6a1137add644b11230cadd5bb9a73dc318062e11"
+    },
+    {
+      "record_id": "P054-S06",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 6,
+      "source_url": "https://i.pinimg.com/736x/39/08/38/390838b1dcf7f8fbe27cc43998196de1.jpg",
+      "asset_file": "assets/390838b1dcf7f8fbe27cc43998196de1.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S06.md",
+      "title": "SMASH 06 — lime A tabela",
+      "role": "environmental",
+      "role_label": "Mekân / çevresel grafik",
+      "brief_variables": [
+        "BRAND",
+        "OPENING_HEADLINE"
+      ],
+      "sha256": "b3ea3b211e8c49d24c50b8fe83a5a4b9be8685451f7f566478479228706eedde"
+    },
+    {
+      "record_id": "P054-S07",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 7,
+      "source_url": "https://i.pinimg.com/736x/a1/95/15/a19515048dd2d427cabfc0e9777811d0.jpg",
+      "asset_file": "assets/a19515048dd2d427cabfc0e9777811d0.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S07.md",
+      "title": "SMASH 07 — kızarmış tavuk kovası",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "a74be40c7fea98ad622515cec5ec3e4468e25177d628d737001027dd516890e4"
+    },
+    {
+      "record_id": "P054-S08",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 8,
+      "source_url": "https://i.pinimg.com/736x/be/26/49/be264947674572217626db8bd3756a95.jpg",
+      "asset_file": "assets/be264947674572217626db8bd3756a95.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S08.md",
+      "title": "SMASH 08 — elde okunan menü",
+      "role": "editorial",
+      "role_label": "Editoryal fotoğraf",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "3b2ed0f58e7b13ab93e708fad3fba85f12898742b7dfd657aeb3b15ae3731f14"
+    },
+    {
+      "record_id": "P054-S09",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 9,
+      "source_url": "https://i.pinimg.com/736x/42/00/4f/42004f9516e3c1cdbd287b557ee71441.jpg",
+      "asset_file": "assets/42004f9516e3c1cdbd287b557ee71441.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S09.md",
+      "title": "SMASH 09 — sekizli çizgi karakter ailesi",
+      "role": "illustration",
+      "role_label": "İllüstrasyon sistemi",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "24703bc36b0a16c1a6d9b700a8fa1da1123d3e090910ba13fb78578b110ff599"
+    },
+    {
+      "record_id": "P054-S10",
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "asset_index": 10,
+      "source_url": "https://i.pinimg.com/736x/e9/63/dc/e963dca1a34b0966d40074f74b87d6d0.jpg",
+      "asset_file": "assets/e963dca1a34b0966d40074f74b87d6d0.jpg",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P054-S10.md",
+      "title": "SMASH 10 — restoran duvar uygulaması",
+      "role": "environmental",
+      "role_label": "Mekân / çevresel grafik",
+      "brief_variables": [
+        "BRAND",
+        "HEADLINE"
+      ],
+      "sha256": "bab1ea51b6fd52caf05e99d01018445e0197012c2013dc505018f215532417fc"
+    },
+    {
+      "record_id": "P055-S01",
+      "pin_id": "761600987041738247",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738247/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/af/b1/bc/afb1bc44efe8003a071ecfe2df827b28.jpg",
+      "asset_file": "assets/afb1bc44efe8003a071ecfe2df827b28.jpg",
+      "dimensions": [
+        736,
+        736
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P055-S01.md",
+      "title": "FATBITE — siyah krem kapsamlı kimlik",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "93428b9ef814b225e89156b97887a2e88bfe0a900274f8e86219cd91ea031547"
+    },
+    {
+      "record_id": "P056-S01",
+      "pin_id": "761600987041738242",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738242/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/e6/2a/b4/e62ab40cc31c89a3478815f4c198451f.jpg",
+      "asset_file": "assets/e62ab40cc31c89a3478815f4c198451f.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P056-S01.md",
+      "title": "WOOFERS — dokuzlu mavi yemek kampanyası",
+      "role": "social",
+      "role_label": "Sosyal seri",
+      "brief_variables": [
+        "APPROVED_HEADLINE",
+        "BRAND"
+      ],
+      "sha256": "674d47d6f3783856fb498fa4a98ff763bc83f625475c823df2d3694bae607b94"
+    },
+    {
+      "record_id": "P057-S01",
+      "pin_id": "761600987041738238",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738238/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/9f/79/cf/9f79cfca03c806084955e3a19cfe6eef.jpg",
+      "asset_file": "assets/9f79cfca03c806084955e3a19cfe6eef.jpg",
+      "dimensions": [
+        736,
+        1472
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P057-S01.md",
+      "title": "Bun Culture — sarı mor harf ve maskot sistemi",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "1b4fb3638f71dfb812930927c55a271d9b2a507a58244a70655bbb1165405b90"
+    },
+    {
+      "record_id": "P058-S01",
+      "pin_id": "761600987041738207",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738207/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/a4/bf/4b/a4bf4b3794661733bfe1c4a51e56e396.jpg",
+      "asset_file": "assets/a4bf4b3794661733bfe1c4a51e56e396.jpg",
+      "dimensions": [
+        1080,
+        1348
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P058-S01.md",
+      "title": "BUNZO’S — fayans üzerinde burger ambalajı",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "ffe57e9f27aeaf587c8aacdfca6d8a78e196dff897bfd13386cf5d9505f04869"
+    },
+    {
+      "record_id": "P059-S01",
+      "pin_id": "761600987041738205",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738205/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/2d/c6/0f/2dc60f1863fabdb7526d8a20407154f8.jpg",
+      "asset_file": "assets/2dc60f1863fabdb7526d8a20407154f8.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P059-S01.md",
+      "title": "BOJI — kebap kimliği ve kutu",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "2567e34ce8982add143136a2627b6ccb19659b32b930d615b7b0476f177109c5"
+    },
+    {
+      "record_id": "P060-S01",
+      "pin_id": "761600987041738147",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738147/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/89/12/a3/8912a32ecebcdace4a8144f3bfd6b59a.jpg",
+      "asset_file": "assets/8912a32ecebcdace4a8144f3bfd6b59a.jpg",
+      "dimensions": [
+        736,
+        997
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P060-S01.md",
+      "title": "MAKEIT — harften türeyen dalga sistemi",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "c1ddc4261db8aca647d2c64a819607ee0d4dfc0937131366b6b11ff0c1c18668"
+    },
+    {
+      "record_id": "P061-S01",
+      "pin_id": "761600987041738101",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738101/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/4a/9c/34/4a9c34c3af1a65af1b9b161f2308bc1d.jpg",
+      "asset_file": "assets/4a9c34c3af1a65af1b9b161f2308bc1d.jpg",
+      "dimensions": [
+        1080,
+        2200
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P061-S01.md",
+      "title": "The Fool — acı sos kimliği",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "66ee40a7a67591b02167be347aa9ca4ca21ce3f5e8e3b79d03a71106e482dc66"
+    },
+    {
+      "record_id": "P062-S01",
+      "pin_id": "761600987041738096",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738096/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/25/01/2b/25012bf2e714ea0c5651c0f08df6ee24.jpg",
+      "asset_file": "assets/25012bf2e714ea0c5651c0f08df6ee24.jpg",
+      "dimensions": [
+        1200,
+        1500
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P062-S01.md",
+      "title": "BAD BUN — kobalt sarı burger sistemi",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND",
+        "HEADLINE"
+      ],
+      "sha256": "793f109b1d8c1fd1af742af7f7885520a7b1c5295cc0902fd1c02ad5b577186d"
+    },
+    {
+      "record_id": "P063-S01",
+      "pin_id": "761600987041738072",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738072/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/d7/40/30/d7403090c67f6206e2cae65def6dfecb.jpg",
+      "asset_file": "assets/d7403090c67f6206e2cae65def6dfecb.jpg",
+      "dimensions": [
+        736,
+        1308
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P063-S01.md",
+      "title": "HUMMEY — bal maskotu ve ambalaj ailesi",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "0d01488459ab3e4eadb5661febb2f7142feb2e5e9617c6d530487ade13465f19"
+    },
+    {
+      "record_id": "P064-S01",
+      "pin_id": "761600987041738064",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738064/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/23/f5/b3/23f5b310cb80b393c7119a54993aed70.jpg",
+      "asset_file": "assets/23f5b310cb80b393c7119a54993aed70.jpg",
+      "dimensions": [
+        1200,
+        2133
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P064-S01.md",
+      "title": "Plates Meal — web ve üç sosyal reklam",
+      "role": "web",
+      "role_label": "Web sunumu",
+      "brief_variables": [
+        "BRAND",
+        "HEADLINE"
+      ],
+      "sha256": "b62e0038a624f82ccf59844d3f449f22841b8a7c7c2a5b6b01957dea032bfc8c"
+    },
+    {
+      "record_id": "P065-S01",
+      "pin_id": "761600987041738060",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738060/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/45/da/0e/45da0e988b52b6942d095311d6edada3.jpg",
+      "asset_file": "assets/45da0e988b52b6942d095311d6edada3.jpg",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P065-S01.md",
+      "title": "Satori — bordo beyaz pasta serisi",
+      "role": "social",
+      "role_label": "Sosyal seri",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "4ea76dc55f3ffae3c8ce489be50cf60aaa08b4ec164b35176ec043a843588f6b"
+    },
+    {
+      "record_id": "P066-S01",
+      "pin_id": "761600987041738055",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738055/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/96/cc/31/96cc31c5e55b7379f8e7de8e497027fa.jpg",
+      "asset_file": "assets/96cc31c5e55b7379f8e7de8e497027fa.jpg",
+      "dimensions": [
+        736,
+        1307
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P066-S01.md",
+      "title": "MAVO KAFE — kahve çekirdeğinden logo sistemi",
+      "role": "identity",
+      "role_label": "Marka kimliği",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "6f639c057053107fe292566c1481cd24de58f7d324645d7c8f02b45cac92dbb9"
+    },
+    {
+      "record_id": "P067-S01",
+      "pin_id": "761600987041738044",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738044/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/b3/75/f0/b375f0ac8442015bcaa82e99f8755163.jpg",
+      "asset_file": "assets/b375f0ac8442015bcaa82e99f8755163.jpg",
+      "dimensions": [
+        886,
+        1778
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P067-S01.md",
+      "title": "ELLAK — organik gösterim yazısı örneği",
+      "role": "type",
+      "role_label": "Harf / tipografi",
+      "brief_variables": [
+        "TYPE_NAME"
+      ],
+      "sha256": "9af842635f27b600f54a95b6903691fb4bdae0e6d0ffe3d47dacf4b92fe6026d"
+    },
+    {
+      "record_id": "P068-S01",
+      "pin_id": "761600987041738036",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738036/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/d0/f8/59/d0f859baaf74b6c447f4ff521dca6be2.jpg",
+      "asset_file": "assets/d0f859baaf74b6c447f4ff521dca6be2.jpg",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P068-S01.md",
+      "title": "K-CRUNCH — turuncu tavuk kampanyası",
+      "role": "social",
+      "role_label": "Sosyal seri",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "7544b7d3f996e8115b35d90cdbf1a0961ce867c700c10a44b9dfe550877a519e"
+    },
+    {
+      "record_id": "P069-S01",
+      "pin_id": "761600987041738030",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738030/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/6e/ba/32/6eba32350bfb2eacc75a3672305c98df.jpg",
+      "asset_file": "assets/6eba32350bfb2eacc75a3672305c98df.jpg",
+      "dimensions": [
+        1200,
+        2400
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P069-S01.md",
+      "title": "MONICHO — keskin köşeli kalın font sunumu",
+      "role": "type",
+      "role_label": "Harf / tipografi",
+      "brief_variables": [
+        "TYPE_NAME"
+      ],
+      "sha256": "6f88bedffb345f14c6ea8605e1be6d022e4880ceb3a99f7e71797e124c395073"
+    },
+    {
+      "record_id": "P070-S01",
+      "pin_id": "761600987041738019",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738019/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/12/e2/53/12e2533e63126d5f12add80fdeb8dcb2.jpg",
+      "asset_file": "assets/12e2533e63126d5f12add80fdeb8dcb2.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P070-S01.md",
+      "title": "Lil Bucks — mavi atıştırmalık paketi",
+      "role": "packaging",
+      "role_label": "Ambalaj",
+      "brief_variables": [
+        "BRAND",
+        "HEADLINE"
+      ],
+      "sha256": "ace681be4dddfbed3f26890abb485d8ae48246955ec0790fbbc87329bf3286a4"
+    },
+    {
+      "record_id": "P071-S01",
+      "pin_id": "761600987041738017",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738017/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/4f/d6/b8/4fd6b81f931b93ed3f8acb171ae207b4.jpg",
+      "asset_file": "assets/4fd6b81f931b93ed3f8acb171ae207b4.jpg",
+      "dimensions": [
+        1200,
+        1600
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P071-S01.md",
+      "title": "OLEA — zeytin taşıyan maskot ve logo kilitleri",
+      "role": "illustration",
+      "role_label": "İllüstrasyon sistemi",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "cdddc6572ada7cd589110edbbd1bd89de5598c75da7ccd0497bfd96ebb3c22c7"
+    },
+    {
+      "record_id": "P072-S01",
+      "pin_id": "761600987041738013",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738013/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/32/ee/bc/32eebccaa536cdf47c2109fc07f2f573.jpg",
+      "asset_file": "assets/32eebccaa536cdf47c2109fc07f2f573.jpg",
+      "dimensions": [
+        564,
+        1851
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P072-S01.md",
+      "title": "Vişne reçeli — malzeme odaklı web sunumu",
+      "role": "web",
+      "role_label": "Web sunumu",
+      "brief_variables": [
+        "BRAND"
+      ],
+      "sha256": "d464b681e962bbb916c0983bed96f5cfd0d4e391cb485b9c7b1a6678ecbc3640"
+    }
+  ],
+  "coverage": {
+    "board_listing_count": 72,
+    "opened_pin_count": 72,
+    "visually_reviewed_unique_asset_count": 102,
+    "individual_prompt_file_count": 107,
+    "carousel_pins": {
+      "P006": 5,
+      "P035": 19,
+      "P042": 5,
+      "P054": 10
+    },
+    "duplicate_asset_occurrences": 5,
+    "additional_same_design_pair": [
+      "P008-S01",
+      "P044-S01"
+    ],
+    "inaccessible_pin_count": 0,
+    "observed_video_count": 0,
+    "previous_snapshot_pin_count": 23,
+    "added_pin_count_since_previous_snapshot": 49,
+    "previous_pins_missing_from_this_snapshot": [],
+    "category_counts": {
+      "web": 4,
+      "packaging": 12,
+      "product": 16,
+      "identity": 20,
+      "interface": 2,
+      "apparel": 21,
+      "editorial": 10,
+      "poster": 6,
+      "social": 7,
+      "environmental": 4,
+      "print": 1,
+      "illustration": 2,
+      "type": 2
+    }
+  },
+  "limits": [
+    "Dated snapshot of the visible board and opened pin media; future changes require a new review.",
+    "107 occurrences include five exact duplicate slides; 102 unique file hashes are not 102 independent design directions.",
+    "P008 and P044 show the same design in different files; reference frequency must not be double-weighted.",
+    "Small or unreadable source text is not transcribed or treated as verified typeface, offer, specification or certification.",
+    "A collage is catalogued as one source image; its visible sub-panels are described together, not falsely counted as separate downloaded files.",
+    "No generated-image output validation was performed; deliverable is individually authored reusable prompts and source analysis.",
+    "P031 documents a nicotine-product source but adapts the reusable production prompt to a neutral non-regulated electronic product."
+  ]
+}

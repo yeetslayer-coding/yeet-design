@@ -1,0 +1,1364 @@
+{
+  "schema_version": 1,
+  "board_url": "https://tr.pinterest.com/lilyeet00/skill/",
+  "observed_date": "2026-11-13",
+  "board_pin_count": 99,
+  "baseline_pin_count": 72,
+  "new_pin_count": 27,
+  "asset_occurrences": 63,
+  "image_count": 62,
+  "video_count": 1,
+  "records": [
+    {
+      "record_id": "P073-S01",
+      "pin_id": "761600987041745223",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745223/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/65/a1/b1/65a1b1119f11dd3ad8448fc096907e04.jpg",
+      "asset_file": "assets/65a1b1119f11dd3ad8448fc096907e04.jpg",
+      "media_type": "image",
+      "sha256": "8ada0be44776fac9767ef782e9e84f0b484c873430a99cf99a551fc52d8cba65",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P073-S01.md",
+      "title": "Orderside — modüler kurumsal ürün panosu",
+      "brief_variables": [
+        "[BRAND]",
+        "[BRIEF]",
+        "[PRIMARY]",
+        "[SECONDARY]"
+      ]
+    },
+    {
+      "record_id": "P074-S01",
+      "pin_id": "761600987041745220",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745220/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/7d/93/d1/7d93d15c69ebdeb2a14f7ee38e293875.jpg",
+      "asset_file": "assets/7d93d15c69ebdeb2a14f7ee38e293875.jpg",
+      "media_type": "image",
+      "sha256": "4fd4edf7589932b9b1e528a992214c2e6711ecfdf3d06773e353d1aee447c524",
+      "dimensions": [
+        736,
+        980
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P074-S01.md",
+      "title": "Ocean Café — krem ambalaj ve mavi çizim",
+      "brief_variables": [
+        "[BRAND STORY]",
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P075-S01",
+      "pin_id": "761600987041745214",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745214/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/8f/f2/f6/8ff2f6654b4551da1c9306c5904ac666.jpg",
+      "asset_file": "assets/8ff2f6654b4551da1c9306c5904ac666.jpg",
+      "media_type": "image",
+      "sha256": "7fd2c0c488f1dad762d08aaea9ebe13c294ca6310906e83e9915446767f850ff",
+      "dimensions": [
+        735,
+        975
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P075-S01.md",
+      "title": "Sayco — kobalt alanda siyah grafik kimlik",
+      "brief_variables": [
+        "[ACCENT]",
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P076-S01",
+      "pin_id": "761600987041745213",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745213/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/99/1e/fb/991efb15021898bf369af2b4dd28065d.jpg",
+      "asset_file": "assets/991efb15021898bf369af2b4dd28065d.jpg",
+      "media_type": "image",
+      "sha256": "ab22d92fbde8c1255fd6e127c544824e27dad13b7e7aae3de9ce7351990ef9ae",
+      "dimensions": [
+        736,
+        1349
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P076-S01.md",
+      "title": "Creative Agency — sarı yüzeyli promosyon ailesi",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]",
+        "[SECONDARY]"
+      ]
+    },
+    {
+      "record_id": "P077-S01",
+      "pin_id": "761600987041745209",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745209/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/dd/0b/d8/dd0bd8130949093e5c2dfe9efc535526.jpg",
+      "asset_file": "assets/dd0bd8130949093e5c2dfe9efc535526.jpg",
+      "media_type": "image",
+      "sha256": "e7fa6837adcbfdb0671321506f2c8ecf85f876d9aa4e71921a2fecd92cb781ee",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P077-S01.md",
+      "title": "Nori — birebir ters renk bardak çifti",
+      "brief_variables": [
+        "[PRIMARY]",
+        "[SECONDARY]"
+      ]
+    },
+    {
+      "record_id": "P078-S01",
+      "pin_id": "761600987041745208",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745208/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/8d/90/82/8d9082c8aaa3227e6c8e8e7f22162f22.jpg",
+      "asset_file": "assets/8d9082c8aaa3227e6c8e8e7f22162f22.jpg",
+      "media_type": "image",
+      "sha256": "98c1e1244c999051c6e2b4fc35f3af14b9c9a0f65f5ce0941d9f2d1ad153cc9e",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P078-S01.md",
+      "title": "Gourmet Board Co — çizimli nötr ambalaj ailesi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P079-S01",
+      "pin_id": "761600987041745206",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745206/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/04/ea/62/04ea62866eccef14fc78c59e9e942cf7.jpg",
+      "asset_file": "assets/04ea62866eccef14fc78c59e9e942cf7.jpg",
+      "media_type": "image",
+      "sha256": "3f7fc2ef20f3ed58945a5f437c0f0172a1d2cd406ed617f930633a51e8787fc9",
+      "dimensions": [
+        640,
+        853
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P079-S01.md",
+      "title": "Burger House — ters renk bardak reklamı",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P080-S01",
+      "pin_id": "761600987041745204",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745204/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/1c/82/dd/1c82dda509b0b70666cd9dbfdea3cc0c.jpg",
+      "asset_file": "assets/1c82dda509b0b70666cd9dbfdea3cc0c.jpg",
+      "media_type": "image",
+      "sha256": "fa4f38f30007771ce0712711189ee170bca38cb69c5c285bc5b6eaecd9dc6fdb",
+      "dimensions": [
+        736,
+        1064
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P080-S01.md",
+      "title": "Corner Café — köşe hizalı tipografik envanter",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P081-S01",
+      "pin_id": "761600987041745201",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745201/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/6d/c2/ac/6dc2ace223fb4373c18dc7bb80b71acd.jpg",
+      "asset_file": "assets/6dc2ace223fb4373c18dc7bb80b71acd.jpg",
+      "media_type": "image",
+      "sha256": "92c3eedc1290e250b42a444f41a73e776f9f5d173bc02833dbacb9ca67f7e484",
+      "dimensions": [
+        1200,
+        1585
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P081-S01.md",
+      "title": "Beebee — ambalajlarda geometrik ikon ailesi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P082-S01",
+      "pin_id": "761600987041745191",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745191/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/1e/dd/d0/1eddd03d7b97f64325337a8b0a6a5477.jpg",
+      "asset_file": "assets/1eddd03d7b97f64325337a8b0a6a5477.jpg",
+      "media_type": "image",
+      "sha256": "b5d5c852318985237aa0d2e6ec01e5330710769fd0049d19060a4f9e25dcf9b8",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P082-S01.md",
+      "title": "Coffiyeh — dar kimlik envanteri kırpımı",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P083-S01",
+      "pin_id": "761600987041745190",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745190/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/f0/8a/0b/f08a0b1f03816bc5a59139dd29b87114.jpg",
+      "asset_file": "assets/f08a0b1f03816bc5a59139dd29b87114.jpg",
+      "media_type": "image",
+      "sha256": "4a047080287f16548ba1f801aee57ce4277b99607076be4e94b3d8689ee794bd",
+      "dimensions": [
+        736,
+        1308
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P083-S01.md",
+      "title": "Coffiyeh — dikey envanterde ölçek dağılımı",
+      "brief_variables": [
+        "[APPROVED PALETTE]",
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P084-S01",
+      "pin_id": "761600987041745185",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745185/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/75/8f/b7/758fb756199ca848fe6cdc891f9c013f.jpg",
+      "asset_file": "assets/758fb756199ca848fe6cdc891f9c013f.jpg",
+      "media_type": "image",
+      "sha256": "df608b189894f3b0e615acc0fa104f18983902efb853572333864100b8032118",
+      "dimensions": [
+        736,
+        736
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P084-S01.md",
+      "title": "Brewist — bardaklarda yakın illüstrasyon kadrajı",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S01",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 1,
+      "source_url": "https://v1.pinimg.com/videos/iht/expMp4/52/42/d4/5242d4cfaafba809000390a9f9afe7d8_720w.mp4",
+      "asset_file": "assets/5242d4cfaafba809000390a9f9afe7d8_720w.mp4",
+      "media_type": "video",
+      "sha256": "6af817f97b2f6f09f10117bc41464b5e8efd123d210196afbca331ae9731095e",
+      "dimensions": null,
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S01.md",
+      "title": "Coffiyeh — hareketli kimlik envanteri",
+      "brief_variables": [
+        "[BRAND]"
+      ],
+      "duration_seconds": 5.6,
+      "review_method": "sampled_frames_0_2_4_seconds_no_audio_analysis"
+    },
+    {
+      "record_id": "P085-S02",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/eb/7f/92/eb7f92acf14bbcc6b989ff50a99a2e09.jpg",
+      "asset_file": "assets/eb7f92acf14bbcc6b989ff50a99a2e09.jpg",
+      "media_type": "image",
+      "sha256": "dbb7e0f470eff27782898fc40346545a203ea2a2704d4a384965bb6121c74b81",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S02.md",
+      "title": "Coffiyeh — kapsamlı uygulama envanteri",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S03",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/49/53/74/49537484f31d5cf2f7b9ec953a4b9827.jpg",
+      "asset_file": "assets/49537484f31d5cf2f7b9ec953a4b9827.jpg",
+      "media_type": "image",
+      "sha256": "e3025e75677ebcbfe54ef25706a061df747c4fce173e6e731ed386ea0dfc7549",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S03.md",
+      "title": "Coffiyeh — espresso makinesinde bardaklar",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S04",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/dc/ab/44/dcab44b3922ef584040ebce1043ede4a.jpg",
+      "asset_file": "assets/dcab44b3922ef584040ebce1043ede4a.jpg",
+      "media_type": "image",
+      "sha256": "65cb6067ecbbc87de98e3285102a37fcfe8c0019c18b371b539db853915ddd63",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S04.md",
+      "title": "Coffiyeh — kabartmalı kart ve sadakat sistemi",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P085-S05",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 5,
+      "source_url": "https://i.pinimg.com/736x/62/c6/36/62c63675ff63a8174895eeb302b0727d.jpg",
+      "asset_file": "assets/62c63675ff63a8174895eeb302b0727d.jpg",
+      "media_type": "image",
+      "sha256": "c5f0d6d35ccbf69557c39b06b62ce0d6f7367311f5f43bc4b07802d5d19c653f",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S05.md",
+      "title": "Coffiyeh — harf ve motif yapım anlatısı",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S06",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 6,
+      "source_url": "https://i.pinimg.com/736x/a3/3c/6e/a33c6e021a43c2dc0ede67f9d8f33bab.jpg",
+      "asset_file": "assets/a33c6e021a43c2dc0ede67f9d8f33bab.jpg",
+      "media_type": "image",
+      "sha256": "d87d6d6e76c9e3a26435c5a9ed9e55b179074aa8ceeba47ea0fb6f54ff8bf8a4",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S06.md",
+      "title": "Coffiyeh — çelik rafta beyaz bardak",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S07",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 7,
+      "source_url": "https://i.pinimg.com/736x/3a/ce/dd/3aceddbec80068cc679fc1172f4d5127.jpg",
+      "asset_file": "assets/3aceddbec80068cc679fc1172f4d5127.jpg",
+      "media_type": "image",
+      "sha256": "1c093cdd00745b4ea0ee1baa7b67554e0a95a62643fd4aef5c793f0754351f06",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S07.md",
+      "title": "Coffiyeh — marka fikrinden tipografi türetme",
+      "brief_variables": [
+        "[BRAND STORY]",
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S08",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 8,
+      "source_url": "https://i.pinimg.com/736x/7f/e8/67/7fe867b6bd3185e3f73941fef2452a58.jpg",
+      "asset_file": "assets/7fe867b6bd3185e3f73941fef2452a58.jpg",
+      "media_type": "image",
+      "sha256": "3b2efb568169bef6f190bcb3d3d1d1df5bcf81fe2566c5a662297e79af140e15",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S08.md",
+      "title": "Coffiyeh — uygulama biçimli renk matrisi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S09",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 9,
+      "source_url": "https://i.pinimg.com/736x/40/9c/54/409c54dbb4491640960c89c86da77369.jpg",
+      "asset_file": "assets/409c54dbb4491640960c89c86da77369.jpg",
+      "media_type": "image",
+      "sha256": "35e77349acb772546a99f983b9f8e4fc9b414d5789693bc58b1f90be1a2e25a8",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S09.md",
+      "title": "Coffiyeh — anlamdan türeyen dokuma deseni",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S10",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 10,
+      "source_url": "https://i.pinimg.com/736x/1b/6f/f8/1b6ff86fe164c383adb72261cca8caa8.jpg",
+      "asset_file": "assets/1b6ff86fe164c383adb72261cca8caa8.jpg",
+      "media_type": "image",
+      "sha256": "57e7005a6871e13fdc1cdb0a77296b143333959898c624497e91a479b90545ca",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S10.md",
+      "title": "Coffiyeh — insan ve editoryal marka hikâyesi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S11",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 11,
+      "source_url": "https://i.pinimg.com/736x/cf/6f/ca/cf6fca7576f8df8f4e4ed81dcb155976.jpg",
+      "asset_file": "assets/cf6fca7576f8df8f4e4ed81dcb155976.jpg",
+      "media_type": "image",
+      "sha256": "7293936b320638c8e14820d96079d5e063c0e383e17ee0686be63844dccb9372",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S11.md",
+      "title": "Coffiyeh — mekân fotoğrafında büyük logo",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S12",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 12,
+      "source_url": "https://i.pinimg.com/736x/d3/b1/ad/d3b1ad3e35b7aec89ce5dc5795e2678b.jpg",
+      "asset_file": "assets/d3b1ad3e35b7aec89ce5dc5795e2678b.jpg",
+      "media_type": "image",
+      "sha256": "372680edea0cd917ae824fa3a122b0290d5a12a1346abbf51249e92e10154b24",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S12.md",
+      "title": "Coffiyeh — metal tepside üstten servis",
+      "brief_variables": [
+        "[ACCENT]",
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S13",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 13,
+      "source_url": "https://i.pinimg.com/736x/34/48/9d/34489d4e9d1cb862e8e2d408fc30ceaa.jpg",
+      "asset_file": "assets/34489d4e9d1cb862e8e2d408fc30ceaa.jpg",
+      "media_type": "image",
+      "sha256": "a2755bbecaea15ad984b4bff166fbb1fe493dd66bcaf7f71d3887c2af7f12c62",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S13.md",
+      "title": "Coffiyeh — editoryal kimlik açıklama sayfası",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S14",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 14,
+      "source_url": "https://i.pinimg.com/736x/28/66/78/286678665a758351c52adb1d6ee2a9ea.jpg",
+      "asset_file": "assets/286678665a758351c52adb1d6ee2a9ea.jpg",
+      "media_type": "image",
+      "sha256": "522f3340d31491e69d80995773d8cb592991207d9dda9394fdc4d81eea95ec22",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S14.md",
+      "title": "Coffiyeh — sosyal postlarda tipografik ritim",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S15",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 15,
+      "source_url": "https://i.pinimg.com/736x/33/b6/d8/33b6d86225d3291db7dedcc74eb057fc.jpg",
+      "asset_file": "assets/33b6d86225d3291db7dedcc74eb057fc.jpg",
+      "media_type": "image",
+      "sha256": "5a907763b2f9cfafc70ed728b541ac9cba3cb6011521c8824c27cf8b859e4d2c",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S15.md",
+      "title": "Coffiyeh — düz yüzey kimlik dağılımı",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P085-S16",
+      "pin_id": "761600987041745184",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745184/",
+      "asset_index": 16,
+      "source_url": "https://i.pinimg.com/736x/28/6a/ca/286aca8465c768f35f6986331f539df9.jpg",
+      "asset_file": "assets/286aca8465c768f35f6986331f539df9.jpg",
+      "media_type": "image",
+      "sha256": "6b284e783ef5ef12f35d17f118d97010fb2d03544dd75971ae57e6fe6c86cc70",
+      "dimensions": [
+        736,
+        977
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P085-S16.md",
+      "title": "Coffiyeh — kapanış sayfasında ambalaj ve açıklama",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P086-S01",
+      "pin_id": "761600987041745183",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745183/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/c9/0c/e3/c90ce3dce2638a5fca65e77e8862f944.jpg",
+      "asset_file": "assets/c90ce3dce2638a5fca65e77e8862f944.jpg",
+      "media_type": "image",
+      "sha256": "f18a1a6b802bac6008dfb6ce2f28ae1fcdeb8fbae47531ae8af359433250d75e",
+      "dimensions": [
+        1116,
+        1228
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P086-S01.md",
+      "title": "Bluebeard — uzun dar harf ve servis karakteri",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P087-S01",
+      "pin_id": "761600987041745182",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745182/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/63/74/dc/6374dc14b1208ec17bc842897aa3b1bf.jpg",
+      "asset_file": "assets/6374dc14b1208ec17bc842897aa3b1bf.jpg",
+      "media_type": "image",
+      "sha256": "a7f6b962783691d63580377413fccf4acfe9d331ec4d845e1eafaeec22a3ccd8",
+      "dimensions": [
+        1200,
+        1497
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P087-S01.md",
+      "title": "After Brew — kartlarda maskot ve renk rolleri",
+      "brief_variables": [
+        "[BACKGROUND]",
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P088-S01",
+      "pin_id": "761600987041745179",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745179/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/04/38/96/043896ea16aaaffc971e19230773a4fe.jpg",
+      "asset_file": "assets/043896ea16aaaffc971e19230773a4fe.jpg",
+      "media_type": "image",
+      "sha256": "c63cc40d324a8d4225e7a12a52d709f61f528020df4a070208fff84b209c1076",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P088-S01.md",
+      "title": "Mr. Waffle — maskottan araç ve üniformaya",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P089-S01",
+      "pin_id": "761600987041745173",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745173/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/62/93/fe/6293fe43295ae92d285ac82de0c284f0.jpg",
+      "asset_file": "assets/6293fe43295ae92d285ac82de0c284f0.jpg",
+      "media_type": "image",
+      "sha256": "0d14ba2990d0d327908f7e76091ff75d4e554b22f3ce334fbca315f744ce9e75",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P089-S01.md",
+      "title": "Mama — rehberden fiziksel uygulamaya kimlik şeması",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P090-S01",
+      "pin_id": "761600987041745167",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745167/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/11/a9/1d/11a91d8008a4eeb7429964f642b77c27.jpg",
+      "asset_file": "assets/11a91d8008a4eeb7429964f642b77c27.jpg",
+      "media_type": "image",
+      "sha256": "05fd5f96de6195fd093624461d641afc5f5fa7d3836d00960fb57bc61d1abadf",
+      "dimensions": [
+        736,
+        981
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P090-S01.md",
+      "title": "The Nook — sandalyede taşıyıcılı iki bardak",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P091-S01",
+      "pin_id": "761600987041745165",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745165/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/5e/fd/c7/5efdc77d1fcf597b913b7b3bf2466912.jpg",
+      "asset_file": "assets/5efdc77d1fcf597b913b7b3bf2466912.jpg",
+      "media_type": "image",
+      "sha256": "58985529c088c5d89bd1982399d06db7fab0889819678427b6a28f422c55b50c",
+      "dimensions": [
+        960,
+        960
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P091-S01.md",
+      "title": "Lama — üç kartta tek karakter sistemi",
+      "brief_variables": [
+        "[ACCENT]",
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S01",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/e1/1e/8d/e11e8d77053f3ed6dbb42208e56e4940.jpg",
+      "asset_file": "assets/e11e8d77053f3ed6dbb42208e56e4940.jpg",
+      "media_type": "image",
+      "sha256": "3db9b3abba41f49e22a375e9ee1d40d754325ed04f9e9e1176b14d56ce5058c1",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S01",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S01.md",
+      "title": "SMASH 01 — çanta, bardak ve tepsi — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S02",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/47/5a/fe/475afe4259c5da6b6ca94adfb92ec34e.jpg",
+      "asset_file": "assets/475afe4259c5da6b6ca94adfb92ec34e.jpg",
+      "media_type": "image",
+      "sha256": "f802db624a9070d081e207a33871544388728340745327d3fed023917da4acec",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S02",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S02.md",
+      "title": "SMASH 02 — saplı kâğıt çanta — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S03",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/90/19/61/901961f15e55967f45ba5951323e4dff.jpg",
+      "asset_file": "assets/901961f15e55967f45ba5951323e4dff.jpg",
+      "media_type": "image",
+      "sha256": "ad6382fcf351e374ab99d4b42668831ca6b6ab3547d1e4790f65df1302dc3f85",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S03",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S03.md",
+      "title": "SMASH 03 — patates üzerinde iki menü paneli — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]",
+        "[MENU_TITLE]"
+      ]
+    },
+    {
+      "record_id": "P092-S04",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/5a/40/35/5a4035fa669d043927dcbc29043d441e.jpg",
+      "asset_file": "assets/5a4035fa669d043927dcbc29043d441e.jpg",
+      "media_type": "image",
+      "sha256": "e0e5d5b2a6ecd8ed7083b0a0d129247e36e41e240b3e4e160375206bc82cc81a",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S04",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S04.md",
+      "title": "SMASH 04 — açık burger kutusu ve bardak — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S05",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 5,
+      "source_url": "https://i.pinimg.com/736x/30/e2/10/30e2103a69e3bb927d86e96f4d2b3f18.jpg",
+      "asset_file": "assets/30e2103a69e3bb927d86e96f4d2b3f18.jpg",
+      "media_type": "image",
+      "sha256": "3e37285e6984f0153b90aafa6a1137add644b11230cadd5bb9a73dc318062e11",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S05",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S05.md",
+      "title": "SMASH 05 — patates kutusu ve peçete — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S06",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 6,
+      "source_url": "https://i.pinimg.com/736x/39/08/38/390838b1dcf7f8fbe27cc43998196de1.jpg",
+      "asset_file": "assets/390838b1dcf7f8fbe27cc43998196de1.jpg",
+      "media_type": "image",
+      "sha256": "b3ea3b211e8c49d24c50b8fe83a5a4b9be8685451f7f566478479228706eedde",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S06",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S06.md",
+      "title": "SMASH 06 — lime A tabela — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]",
+        "[OPENING_HEADLINE]"
+      ]
+    },
+    {
+      "record_id": "P092-S07",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 7,
+      "source_url": "https://i.pinimg.com/736x/a1/95/15/a19515048dd2d427cabfc0e9777811d0.jpg",
+      "asset_file": "assets/a19515048dd2d427cabfc0e9777811d0.jpg",
+      "media_type": "image",
+      "sha256": "a74be40c7fea98ad622515cec5ec3e4468e25177d628d737001027dd516890e4",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S07",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S07.md",
+      "title": "SMASH 07 — kızarmış tavuk kovası — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S08",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 8,
+      "source_url": "https://i.pinimg.com/736x/be/26/49/be264947674572217626db8bd3756a95.jpg",
+      "asset_file": "assets/be264947674572217626db8bd3756a95.jpg",
+      "media_type": "image",
+      "sha256": "3b2ed0f58e7b13ab93e708fad3fba85f12898742b7dfd657aeb3b15ae3731f14",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S08",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S08.md",
+      "title": "SMASH 08 — elde okunan menü — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S09",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 9,
+      "source_url": "https://i.pinimg.com/736x/42/00/4f/42004f9516e3c1cdbd287b557ee71441.jpg",
+      "asset_file": "assets/42004f9516e3c1cdbd287b557ee71441.jpg",
+      "media_type": "image",
+      "sha256": "24703bc36b0a16c1a6d9b700a8fa1da1123d3e090910ba13fb78578b110ff599",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S09",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S09.md",
+      "title": "SMASH 09 — sekizli çizgi karakter ailesi — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P092-S10",
+      "pin_id": "761600987041745160",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745160/",
+      "asset_index": 10,
+      "source_url": "https://i.pinimg.com/736x/e9/63/dc/e963dca1a34b0966d40074f74b87d6d0.jpg",
+      "asset_file": "assets/e963dca1a34b0966d40074f74b87d6d0.jpg",
+      "media_type": "image",
+      "sha256": "bab1ea51b6fd52caf05e99d01018445e0197012c2013dc505018f215532417fc",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": "P054-S10",
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P092-S10.md",
+      "title": "SMASH 10 — restoran duvar uygulaması — yeniden kaydedilen pin",
+      "brief_variables": [
+        "[BRAND]",
+        "[HEADLINE]"
+      ]
+    },
+    {
+      "record_id": "P093-S01",
+      "pin_id": "761600987041745156",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745156/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/fa/e3/ee/fae3ee452e0ca48c0f7cbc0c4f879736.jpg",
+      "asset_file": "assets/fae3ee452e0ca48c0f7cbc0c4f879736.jpg",
+      "media_type": "image",
+      "sha256": "c1f549622d2a5358d21004aca70e5e42ff82cc9460958ec14c4fd9ab35c9cb7a",
+      "dimensions": [
+        735,
+        1012
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P093-S01.md",
+      "title": "Plip — patlama biçimi ve yüz işareti",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P094-S01",
+      "pin_id": "761600987041745154",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745154/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/89/9b/d4/899bd476357413b19dd4992dc1593e77.jpg",
+      "asset_file": "assets/899bd476357413b19dd4992dc1593e77.jpg",
+      "media_type": "image",
+      "sha256": "5c8b5198aa3f2c5bed6112c018a910f7feec0245e4a9c786653bc56ba55aa1ce",
+      "dimensions": [
+        736,
+        1103
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P094-S01.md",
+      "title": "Pawffle — sıcak fotoğraf ve kedi simgesi ailesi",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P095-S01",
+      "pin_id": "761600987041745152",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745152/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/7a/fb/21/7afb21ab3d39d05a3362018bcafbf3c1.jpg",
+      "asset_file": "assets/7afb21ab3d39d05a3362018bcafbf3c1.jpg",
+      "media_type": "image",
+      "sha256": "1865961404554137e58aa21240d2ff808efc9c78c7dd219ca5baada5c67494d7",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P095-S01.md",
+      "title": "Nori Sushi — ön/arka kartta şef çizimi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P095-S02",
+      "pin_id": "761600987041745152",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745152/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/96/35/b4/9635b4a2f6b4f58a4e2bfee177e41f55.jpg",
+      "asset_file": "assets/9635b4a2f6b4f58a4e2bfee177e41f55.jpg",
+      "media_type": "image",
+      "sha256": "f33428e9ec365bade932e988f3cfdb36ae6898009e0c9fa875281826bee2835f",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P095-S02.md",
+      "title": "Pawlo — kartta sevimli maskot ve hizmet bağlamı",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P095-S03",
+      "pin_id": "761600987041745152",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745152/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/82/91/44/8291445081d889a33a9dee6e1ca3d860.jpg",
+      "asset_file": "assets/8291445081d889a33a9dee6e1ca3d860.jpg",
+      "media_type": "image",
+      "sha256": "e7f28bca035771d8a1381a0b928be959f9f7eae1758eeb5cc7bcdadf1a8c30ed",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P095-S03.md",
+      "title": "Roamly — tipografik seyahat kartı",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P095-S04",
+      "pin_id": "761600987041745152",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745152/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/f0/9b/2d/f09b2dbb679fd4dbf8c798be74c89bd0.jpg",
+      "asset_file": "assets/f09b2dbb679fd4dbf8c798be74c89bd0.jpg",
+      "media_type": "image",
+      "sha256": "5ca1e729d3d9f9ac99edc4a65546d2ef9ffcedea543cc4b098edbc871a586e4b",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P095-S04.md",
+      "title": "Soleo — kartta ürün ve marka eşleşmesi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P096-S01",
+      "pin_id": "761600987041745150",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745150/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/b6/c0/c2/b6c0c2a1ba93e560cf43f931ed116f71.jpg",
+      "asset_file": "assets/b6c0c2a1ba93e560cf43f931ed116f71.jpg",
+      "media_type": "image",
+      "sha256": "531362e214c52c39df856879ecdb7df2b63f95063e487c31bc98c93c26a17125",
+      "dimensions": [
+        736,
+        1041
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P096-S01.md",
+      "title": "Koko — kâğıt bantlı bardak yakın çekimi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P097-S01",
+      "pin_id": "761600987041745146",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745146/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/1200x/a1/b4/a2/a1b4a2ec3b74d033e9eb880dc93533f4.jpg",
+      "asset_file": "assets/a1b4a2ec3b74d033e9eb880dc93533f4.jpg",
+      "media_type": "image",
+      "sha256": "e925a63e3e576d499c28f31c14daf455a08fac5fd6d7213857dea77916e44939",
+      "dimensions": [
+        1200,
+        1500
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P097-S01.md",
+      "title": "Talianis — mimari yüzeyde sakin tabela",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P098-S01",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/47/10/39/471039bb421c16cfbb847bb82c2f254b.jpg",
+      "asset_file": "assets/471039bb421c16cfbb847bb82c2f254b.jpg",
+      "media_type": "image",
+      "sha256": "5be781f66fc4d51f78314c8a0f1118a965789150f1db8e3a80089ac75f0fe2e8",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S01.md",
+      "title": "Cravea — kutularda sürekli çizgi ve karakter",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P098-S02",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 2,
+      "source_url": "https://i.pinimg.com/736x/f7/9e/01/f79e01a6f676c494d6d98a9ea255bf55.jpg",
+      "asset_file": "assets/f79e01a6f676c494d6d98a9ea255bf55.jpg",
+      "media_type": "image",
+      "sha256": "cea18c49b4d41978d0911c4eda9f9741163e59515a5faec35fad2d893a80d863",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S02.md",
+      "title": "Cravea — insanın taşıdığı bardak ailesi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P098-S03",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 3,
+      "source_url": "https://i.pinimg.com/736x/52/24/b1/5224b18f39c6ce98749cc3908f36430e.jpg",
+      "asset_file": "assets/5224b18f39c6ce98749cc3908f36430e.jpg",
+      "media_type": "image",
+      "sha256": "d35e798d40e28b3d7008b44c607fdd0e835205f91ac8f3d8b95495cb939ebfa7",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S03.md",
+      "title": "Cravea — elde ürün ile yiyecek detayı eşleşmesi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P098-S04",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 4,
+      "source_url": "https://i.pinimg.com/736x/3f/a3/8b/3fa38bbb7d8c1b04f27f322f884a5852.jpg",
+      "asset_file": "assets/3fa38bbb7d8c1b04f27f322f884a5852.jpg",
+      "media_type": "image",
+      "sha256": "476135e8783970bf42559e213e7cf8905a73184d21d7471e69a6551cc3cdbc6f",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S04.md",
+      "title": "Cravea — saplı kutuda harf ölçeği",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P098-S05",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 5,
+      "source_url": "https://i.pinimg.com/736x/9a/25/db/9a25db9968a1553355a61b92284b8519.jpg",
+      "asset_file": "assets/9a25db9968a1553355a61b92284b8519.jpg",
+      "media_type": "image",
+      "sha256": "bd8e7a58ed01d31e444126011a2d001ed708eca6cea1bb52a5869b02ae8ca7c7",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S05.md",
+      "title": "Cravea — bardakta illüstrasyon ayrıntısı",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P098-S06",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 6,
+      "source_url": "https://i.pinimg.com/736x/f1/db/5c/f1db5c0a5433c9736509179ef2ec54e7.jpg",
+      "asset_file": "assets/f1db5c0a5433c9736509179ef2ec54e7.jpg",
+      "media_type": "image",
+      "sha256": "fa8e0ee625ff7f51919c52a141d47ea2d1a2bdcef5bb9d41dfc863719534d122",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S06.md",
+      "title": "Cravea — servis anında paket ve makine",
+      "brief_variables": []
+    },
+    {
+      "record_id": "P098-S07",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 7,
+      "source_url": "https://i.pinimg.com/736x/e2/08/47/e208477c49f06bc9e6108e74d8a96929.jpg",
+      "asset_file": "assets/e208477c49f06bc9e6108e74d8a96929.jpg",
+      "media_type": "image",
+      "sha256": "5bc393b776482c6c755df373ab71fefd9558d5fd33769d293075f2cab59ac8de",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S07.md",
+      "title": "Cravea — yan yana iki reklam yüzeyi",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P098-S08",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 8,
+      "source_url": "https://i.pinimg.com/736x/6a/83/24/6a832481f842f4cbb47495567b27adcd.jpg",
+      "asset_file": "assets/6a832481f842f4cbb47495567b27adcd.jpg",
+      "media_type": "image",
+      "sha256": "2ea3f89502af83b84ffb2821eafe63d7aea46a5c94c4fc03b9a39f5e48520264",
+      "dimensions": [
+        735,
+        919
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S08.md",
+      "title": "Cravea — yoğun bardak tekrarında grafik ritim",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P098-S09",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 9,
+      "source_url": "https://i.pinimg.com/736x/8f/16/8f/8f168f8347e99305ac1b1cce1620445c.jpg",
+      "asset_file": "assets/8f168f8347e99305ac1b1cce1620445c.jpg",
+      "media_type": "image",
+      "sha256": "b4eb7f67013995a245637d927d0776e578934c6a159b28681cf8816ca007b195",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S09.md",
+      "title": "Cravea — çizimden dijitale süreç sunumu",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    },
+    {
+      "record_id": "P098-S10",
+      "pin_id": "761600987041745138",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745138/",
+      "asset_index": 10,
+      "source_url": "https://i.pinimg.com/736x/51/be/11/51be114233f1d9604e656f037eb61125.jpg",
+      "asset_file": "assets/51be114233f1d9604e656f037eb61125.jpg",
+      "media_type": "image",
+      "sha256": "fd2f39f2f75ae3377a13a3469b02550f8b6fac47d575d764d2ab3ea838f91488",
+      "dimensions": [
+        736,
+        920
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P098-S10.md",
+      "title": "Cravea — tek çizim ailesinde farklı eylemler",
+      "brief_variables": [
+        "[BRAND]",
+        "[PRIMARY]"
+      ]
+    },
+    {
+      "record_id": "P099-S01",
+      "pin_id": "761600987041745099",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041745099/",
+      "asset_index": 1,
+      "source_url": "https://i.pinimg.com/736x/00/ec/42/00ec42a631ebff0fff29ebf2ec37ab2f.jpg",
+      "asset_file": "assets/00ec42a631ebff0fff29ebf2ec37ab2f.jpg",
+      "media_type": "image",
+      "sha256": "964931f1909e02ac70fadc0dab9af394de9afc658bbb6e749d9047570dba559f",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "duplicate_of": null,
+      "review_status": "visually_reviewed_prompt_written",
+      "prompt_file": "prompts/P099-S01.md",
+      "title": "Brew Coffee — elde dört bardak, iki illüstrasyon",
+      "brief_variables": [
+        "[BRAND]"
+      ]
+    }
+  ],
+  "new_distinct_media": 53,
+  "duplicate_occurrences": 10,
+  "coverage_scope": "99 pin board inventory compared to archived 72 pin IDs; all 27 newly added pin detail pages inspected. Older pin slides were not re-audited in this update.",
+  "aggregate_pin_count": 99,
+  "aggregate_prompt_records": 170
+}

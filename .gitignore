@@ -1,0 +1,12 @@
+# Local generated deliveries, review sheets and Python environments
+/output/
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key

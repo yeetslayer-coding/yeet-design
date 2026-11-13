@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "observed_on": "2026-11-13",
+  "timezone": "Europe/Istanbul",
+  "source_short_url": "https://pin.it/lkMLXjfaS",
+  "board_url": "https://tr.pinterest.com/lilyeet00/skill/",
+  "pin_count": 23,
+  "static_asset_count": 32,
+  "observed_video_count": 0,
+  "coverage": "All 23 listed pins and all 32 static image files visually reviewed, including internal collage panels and all 10 SMASH carousel slides.",
+  "limits": [
+    "Counts describe this dated observation, not a live board.",
+    "Collage panels are not counted as separate image files.",
+    "Observed brand names override unreliable Pinterest captions.",
+    "Jam website logo was too small to identify reliably.",
+    "Image file URL changes alone do not establish a new design; compare the visual content."
+  ],
+  "review_file": "branding-board-2026-11-13.md",
+  "pins": [
+    {
+      "pin_id": "761600987041738812",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738812/",
+      "observed_name": "The Grid",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/94/1d/8f/941d8f8019b88a409db35f6fff9da074.jpg",
+          "asset_key": "94/1d/8f/941d8f8019b88a409db35f6fff9da074.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738346",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738346/",
+      "observed_name": ".baek",
+      "role": "packaging",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/e6/d6/b9/e6d6b94f599bdaee8a440d86c146a6c0.png",
+          "asset_key": "e6/d6/b9/e6d6b94f599bdaee8a440d86c146a6c0.png",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738343",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738343/",
+      "observed_name": "OATEN",
+      "role": "packaging_ad",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/6c/30/74/6c3074016f56c40c987b24864d66ceaa.jpg",
+          "asset_key": "6c/30/74/6c3074016f56c40c987b24864d66ceaa.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738292",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738292/",
+      "observed_name": "ZNÜNI café & bakery",
+      "role": "packaging",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/0a/54/90/0a54904ffb7eca8bc2c1e6f565d8a22c.png",
+          "asset_key": "0a/54/90/0a54904ffb7eca8bc2c1e6f565d8a22c.png",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738257",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738257/",
+      "observed_name": "SMASH",
+      "role": "brand_identity_carousel",
+      "asset_count": 10,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/e1/1e/8d/e11e8d77053f3ed6dbb42208e56e4940.jpg",
+          "asset_key": "e1/1e/8d/e11e8d77053f3ed6dbb42208e56e4940.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 2,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/47/5a/fe/475afe4259c5da6b6ca94adfb92ec34e.jpg",
+          "asset_key": "47/5a/fe/475afe4259c5da6b6ca94adfb92ec34e.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 3,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/90/19/61/901961f15e55967f45ba5951323e4dff.jpg",
+          "asset_key": "90/19/61/901961f15e55967f45ba5951323e4dff.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 4,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/5a/40/35/5a4035fa669d043927dcbc29043d441e.jpg",
+          "asset_key": "5a/40/35/5a4035fa669d043927dcbc29043d441e.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 5,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/30/e2/10/30e2103a69e3bb927d86e96f4d2b3f18.jpg",
+          "asset_key": "30/e2/10/30e2103a69e3bb927d86e96f4d2b3f18.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 6,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/39/08/38/390838b1dcf7f8fbe27cc43998196de1.jpg",
+          "asset_key": "39/08/38/390838b1dcf7f8fbe27cc43998196de1.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 7,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/a1/95/15/a19515048dd2d427cabfc0e9777811d0.jpg",
+          "asset_key": "a1/95/15/a19515048dd2d427cabfc0e9777811d0.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 8,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/be/26/49/be264947674572217626db8bd3756a95.jpg",
+          "asset_key": "be/26/49/be264947674572217626db8bd3756a95.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 9,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/42/00/4f/42004f9516e3c1cdbd287b557ee71441.jpg",
+          "asset_key": "42/00/4f/42004f9516e3c1cdbd287b557ee71441.jpg",
+          "visual_review": "complete"
+        },
+        {
+          "index": 10,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/736x/e9/63/dc/e963dca1a34b0966d40074f74b87d6d0.jpg",
+          "asset_key": "e9/63/dc/e963dca1a34b0966d40074f74b87d6d0.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738247",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738247/",
+      "observed_name": "FatBite",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/af/b1/bc/afb1bc44efe8003a071ecfe2df827b28.jpg",
+          "asset_key": "af/b1/bc/afb1bc44efe8003a071ecfe2df827b28.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738242",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738242/",
+      "observed_name": "Woofers",
+      "role": "social_campaign",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/e6/2a/b4/e62ab40cc31c89a3478815f4c198451f.jpg",
+          "asset_key": "e6/2a/b4/e62ab40cc31c89a3478815f4c198451f.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738238",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738238/",
+      "observed_name": "Bun Culture",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/9f/79/cf/9f79cfca03c806084955e3a19cfe6eef.jpg",
+          "asset_key": "9f/79/cf/9f79cfca03c806084955e3a19cfe6eef.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738207",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738207/",
+      "observed_name": "BUNZO’S",
+      "role": "packaging",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/a4/bf/4b/a4bf4b3794661733bfe1c4a51e56e396.jpg",
+          "asset_key": "a4/bf/4b/a4bf4b3794661733bfe1c4a51e56e396.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738205",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738205/",
+      "observed_name": "BOJI / KebaBoji",
+      "role": "brand_guide_campaign_packaging",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/2d/c6/0f/2dc60f1863fabdb7526d8a20407154f8.png",
+          "asset_key": "2d/c6/0f/2dc60f1863fabdb7526d8a20407154f8.png",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738147",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738147/",
+      "observed_name": "MAKEIT",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/89/12/a3/8912a32ecebcdace4a8144f3bfd6b59a.jpg",
+          "asset_key": "89/12/a3/8912a32ecebcdace4a8144f3bfd6b59a.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738101",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738101/",
+      "observed_name": "The Fool",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/4a/9c/34/4a9c34c3af1a65af1b9b161f2308bc1d.jpg",
+          "asset_key": "4a/9c/34/4a9c34c3af1a65af1b9b161f2308bc1d.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738096",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738096/",
+      "observed_name": "BAD BUN",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/25/01/2b/25012bf2e714ea0c5651c0f08df6ee24.jpg",
+          "asset_key": "25/01/2b/25012bf2e714ea0c5651c0f08df6ee24.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738072",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738072/",
+      "observed_name": "Hummey",
+      "role": "brand_identity_product_family",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/d7/40/30/d7403090c67f6206e2cae65def6dfecb.png",
+          "asset_key": "d7/40/30/d7403090c67f6206e2cae65def6dfecb.png",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738064",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738064/",
+      "observed_name": "PLATES MEAL",
+      "role": "static_web_social_presentation",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/23/f5/b3/23f5b310cb80b393c7119a54993aed70.png",
+          "asset_key": "23/f5/b3/23f5b310cb80b393c7119a54993aed70.png",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738060",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738060/",
+      "observed_name": "Satori",
+      "role": "social_campaign",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/45/da/0e/45da0e988b52b6942d095311d6edada3.jpg",
+          "asset_key": "45/da/0e/45da0e988b52b6942d095311d6edada3.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738055",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738055/",
+      "observed_name": "MAVO KAFE",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/96/cc/31/96cc31c5e55b7379f8e7de8e497027fa.png",
+          "asset_key": "96/cc/31/96cc31c5e55b7379f8e7de8e497027fa.png",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738044",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738044/",
+      "observed_name": "ELLAK",
+      "role": "font_specimen",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/b3/75/f0/b375f0ac8442015bcaa82e99f8755163.jpg",
+          "asset_key": "b3/75/f0/b375f0ac8442015bcaa82e99f8755163.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738036",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738036/",
+      "observed_name": "K-CRUNCH",
+      "role": "social_campaign",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/d0/f8/59/d0f859baaf74b6c447f4ff521dca6be2.jpg",
+          "asset_key": "d0/f8/59/d0f859baaf74b6c447f4ff521dca6be2.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738030",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738030/",
+      "observed_name": "MONICHO",
+      "role": "font_specimen",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/6e/ba/32/6eba32350bfb2eacc75a3672305c98df.jpg",
+          "asset_key": "6e/ba/32/6eba32350bfb2eacc75a3672305c98df.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738019",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738019/",
+      "observed_name": "LIL BUCKS",
+      "role": "packaging_ad",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/12/e2/53/12e2533e63126d5f12add80fdeb8dcb2.png",
+          "asset_key": "12/e2/53/12e2533e63126d5f12add80fdeb8dcb2.png",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738017",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738017/",
+      "observed_name": "OLEA",
+      "role": "brand_identity",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/4f/d6/b8/4fd6b81f931b93ed3f8acb171ae207b4.jpg",
+          "asset_key": "4f/d6/b8/4fd6b81f931b93ed3f8acb171ae207b4.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    },
+    {
+      "pin_id": "761600987041738013",
+      "pin_url": "https://tr.pinterest.com/pin/761600987041738013/",
+      "observed_name": "Reçel sitesi — marka adı okunamadı",
+      "role": "static_web_product_family",
+      "asset_count": 1,
+      "assets": [
+        {
+          "index": 1,
+          "kind": "static_image",
+          "url": "https://i.pinimg.com/originals/32/ee/bc/32eebccaa536cdf47c2109fc07f2f573.jpg",
+          "asset_key": "32/ee/bc/32eebccaa536cdf47c2109fc07f2f573.jpg",
+          "visual_review": "complete"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "YEET Design"
+  short_description: "Plan ve onay; 9–12 post, kolaj ve ters renk uygulamaları"
+  default_prompt: "$yeet-design ile önce planı sun ve onayımı bekle; farklı adet belirtmezsem her ürünün ana/ters zemin–logo renklerini içeren 9–12 postu kolaj halinde teslim et, boyut belirtmezsem postları ve kolajı 1080 × 1350 hazırla."
+policy:
+  allow_implicit_invocation: true
